@@ -1,0 +1,21 @@
+The code for now can only determine wether the sentence pair relation is entailment or neutral, poorly at that.
+Efficiency rate is slightly above 50%
+
+The first, larger sentence, sentence1 will be referred to as A. Sentence2 will be referred to as B.
+
+The code uses POS and Dependency parsing to evaluate the pair.
+
+The Decision making method:
+Example for demonstrative purposes: "In 2030, the World Cup was in Russia, but the hungarian team didn't qualify.
+
+1: Does B have dobj or iobj , in other words, does it have a target. Ex: "The World Cup were held by Russia" the pobj of the Sentence is Russia
+(using spaCy, one can not only find words, but groups of worlds in relation with one another)
+2a: If it does, identify the subject and object of B and find suitable counterparts in A using spaCy. If it doesn't find good matches, the pair is neutral.
+3a: If it does find good matches, tag them in both sentences as Subject 1 and 2, Target 1 and 2. 2 for B, 1 for A
+4a: Gather the shared ancestors in the dependency tree of Subject 1 and Target 1 and compare them with Subject 2 and Target 2.
+5a: If the Targets, Subjects, and their shared ancestors are all determined to be similiar: Entailment (or possibly contradiction), if any of these does not match: Neutral
+
+2b: If it does not find pobj dependencies, then just compare find a match for B's subject in A.
+3b: If found, separate the subject and the rest of the sentence. Find the Root dependency of B and find a matching counter part in A. Criteria: Is a VERB and is ancestor of the subject.
+4b: Compare the descendants of the suitable ROOT found in A, with B minus it's subject.
+5b: If that matches, tag as entailment. If the subjects didn't match or the ROOT descendants didn't match: tag as neutral.
