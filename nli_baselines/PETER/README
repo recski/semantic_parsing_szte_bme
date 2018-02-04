@@ -19,3 +19,16 @@ Example for demonstrative purposes: "In 2030, the World Cup was in Russia, but t
 3b: If found, separate the subject and the rest of the sentence. Find the Root dependency of B and find a matching counter part in A. Criteria: Is a VERB and is ancestor of the subject.
 4b: Compare the descendants of the suitable ROOT found in A, with B minus it's subject.
 5b: If that matches, tag as entailment. If the subjects didn't match or the ROOT descendants didn't match: tag as neutral.
+
+Current success rate: 3560/6787
+
+
+Version 0.3 Due to too many false negatives, I lightened the constrictions on what I the algorithm considers a matching subject and object.
+
+Current success rate: 3637/6787
+When considering entailment vs neutral:
+
+False Neg:  2206 /was entailment, but judged as neutral
+False Pos:  759 /was neutral but judged as entailment
+True Neg:  2364 /was neutral, correctly judged
+True Pos:  1273 /was entailment, correctly judged
