@@ -196,3 +196,310 @@ doc=nlp(str1)
 for token in doc:
     print(token.text, token.dep_,token.pos_)
 print (ENTAIL(str1,str2))"""
+
+
+---------------------------------------------------------------------
+Version 0.3 starts here
+
+import spacy
+import nltk
+import jsonlines
+from spacy.symbols import nsubj,nsubjpass, VERB
+
+english_words = set(w.lower() for w in nltk.corpus.words.words())
+
+nlp=spacy.load('en')
+
+def does_itfit(word1,word2):
+    comparable1=nlp(word1)
+    comparable2=nlp(word2)
+    chance=comparable1.similarity(comparable2)
+    if chance > 0.9:
+        return True
+    else:
+        return False
+
+def does_it_fit(comparable1,comparable2):
+    try:
+        if len(comparable1.text)<2 or len(comparable1.text)<2:
+            return True
+
+
+        chance = comparable1.similarity(comparable2)
+        if chance > 0.9:
+            return True
+        else:
+            return False
+    except TypeError:
+        return  True
+
+
+def entailment(string1,string2):
+    print("Doesn't have obj")
+    subject_is_in=False
+    relation_is_similar=False
+    doc=nlp(string2)
+    docx=nlp(string1)
+    for chunk2 in doc.noun_chunks:
+        for chunk1 in docx.noun_chunks:
+            if does_itfit(chunk1.text,chunk2.text) and ( chunk2.root.dep_=='nsubj' or chunk2.root.dep_=='nsubjpass' ):
+                Subject2=chunk2
+                Subject1=chunk1
+                subject_is_in=True
+                print(Subject2.text,Subject1.text)
+    if subject_is_in==False:
+        return False
+    ROOT2=None
+    for token in doc:
+        if token.dep_=='ROOT':
+            ROOT2=token
+            Relation2=set()
+            Relation2.add(token)
+    if ROOT2==None:
+        return False
+
+    for child in ROOT2.children:
+        helper = False
+        for token in Subject2:
+            if token.text==child.text:
+                helper=True
+        if helper==False:
+            Relation2.add(child)
+
+    ROOT1 = None
+    for token in doc:
+        if token.pos_=='VERB' and does_it_fit(ROOT2, token):
+            ROOT1=token
+            Relation1=set()
+            Relation1.add(token)
+    if ROOT1==None:
+        return False
+    for child in ROOT1.children:
+        helper = False
+        for token in Subject1:
+            if token.text==child.text:
+                helper=True
+        if helper==False:
+            Relation1.add(child)
+    rel1 = repr(Relation1)
+    rel2 = repr(Relation2)
+    if does_itfit(rel1, rel2):
+        relation_is_similar = True
+    if relation_is_similar and  subject_is_in:
+            return True
+    else:
+        return False
+
+
+def entailment2(string1,string2):
+    print("has obj")
+    subject_is_in=False
+    object_is_in=False
+    relation_is_similar=False
+    doc = nlp(string2)
+    docx = nlp(string1)
+    for chunk2 in doc.noun_chunks:
+        for chunk1 in docx.noun_chunks:
+            if (does_itfit(chunk1.text,chunk2.text) and ( chunk2.root.dep_=='nsubj' or chunk2.root.dep_=='nsubjpass' )) or (does_itfit(chunk1.root.text,chunk2.root.text) and ( chunk2.root.dep_=='nsubj' or chunk2.root.dep_=='nsubjpass')):
+                Subject2=chunk2
+                Subject1=chunk1
+                subject_is_in=True
+                print(Subject2.text,Subject1.text)
+
+
+            if((does_itfit(chunk1.text,chunk2.text)) and ( chunk2.root.dep_=='pobj' or chunk2.root.dep_=='iobj')) or ((does_itfit(chunk1.root.text,chunk2.root.text)) and ( chunk2.root.dep_=='pobj' or chunk2.root.dep_=='iobj')):
+                Object2=chunk2
+                Object1=chunk1
+                print(Object2.text,Object1.text)
+                object_is_in=True
+
+    if subject_is_in==False:
+        return False
+    if object_is_in==False:
+        return False
+    ROOT2=None
+    for token in doc:
+        if (Subject2.root.head==token and Object2.root.head==token) or (token.is_ancestor(Subject2.root.head) and token == Object2.root.head) or (token.is_ancestor(Object2.root.head) and token==Subject2.root.head) or (token.is_ancestor(Subject2.root.head) and token.is_ancestor(Object2.root.head)) :
+            ROOT2=token
+            Relation2=set()
+            Relation2.add(token)
+    if ROOT2==None:
+        return False
+    for child in ROOT2.children:
+        if child.is_ancestor(Subject2.root) or child.is_ancestor(Object2.root) or child==Object2.root or child==Subject2.root :
+            Relation2.add(child)
+
+    Relation22=set()
+    for item in Relation2:
+        Relation22.add(item)
+        for kid in item.children:
+            Relation22.add(kid)
+    ROOT1=None
+    for token in docx:
+        if (Subject1.root.head == token and Object1.root.head == token) or (
+                token.is_ancestor(Subject1.root.head) and token == Object1.root.head) or (
+                token.is_ancestor(Object1.root.head) and token == Subject1.root.head) or (
+                token.is_ancestor(Subject1.root.head) and token.is_ancestor(Object1.root.head)):
+            ROOT1=token
+            Relation1=set()
+            Relation1.add(token)
+    if ROOT1==None:return False
+
+    for child in ROOT1.children:
+        if child.is_ancestor(Subject1.root) or child.is_ancestor(
+            Object1.root) or child == Object1.root or child == Subject1.root:
+                Relation1.add(child)
+    print(Relation1)
+    print(Relation2)
+    Relation11 = set()
+    for item in Relation1:
+        Relation11.add(item)
+        for kid in item.children:
+            Relation11.add(kid)
+
+    rel1=repr(Relation11)
+    rel2=repr(Relation22)
+    if does_itfit(rel1,rel2):
+        relation_is_similar=True
+    if relation_is_similar and object_is_in and subject_is_in:
+        return True
+    else:
+        return False
+
+def entailment3(string1,string2):
+    print("has obj")
+    subject_is_in=False
+    object_is_in=False
+    relation_is_similar=False
+    doc = nlp(string2)
+    docx = nlp(string1)
+    for chunk2 in doc.noun_chunks:
+        for chunk1 in docx.noun_chunks:
+            if (does_itfit(chunk1.text, chunk2.text) and (
+                    chunk2.root.dep_ == 'nsubj' or chunk2.root.dep_ == 'nsubjpass')) or (
+                    does_itfit(chunk1.root.text, chunk2.root.text) and (
+                    chunk2.root.dep_ == 'nsubj' or chunk2.root.dep_ == 'nsubjpass')):
+                Subject2=chunk2
+                Subject1=chunk1
+                subject_is_in=True
+                print(Subject2.text,Subject1.text)
+
+            if ((does_itfit(chunk1.text, chunk2.text)) and (
+                    chunk1.root.dep_ == 'pobj' or chunk1.root.dep_ == 'iobj')) or (
+                    (does_itfit(chunk1.root.text, chunk2.root.text)) and (
+                    chunk1.root.dep_ == 'pobj' or chunk1.root.dep_ == 'iobj')):
+                Object2=chunk2
+                Object1=chunk1
+                print(Object2.text,Object1.text)
+                object_is_in=True
+
+    if subject_is_in==False:
+        return False
+    if object_is_in==False:
+        return False
+    ROOT2=None
+    for token in doc:
+        if (Subject2.root.head==token and Object2.root.head==token) or (token.is_ancestor(Subject2.root.head) and token == Object2.root.head) or (token.is_ancestor(Object2.root.head) and token==Subject2.root.head) or (token.is_ancestor(Subject2.root.head) and token.is_ancestor(Object2.root.head)) :
+            ROOT2=token
+            Relation2=set()
+            Relation2.add(token)
+    if ROOT2==None:
+        return False
+    for child in ROOT2.children:
+        if child.is_ancestor(Subject2.root) or child.is_ancestor(Object2.root) or child==Object2.root or child==Subject2.root :
+            Relation2.add(child)
+
+    Relation22=set()
+    for item in Relation2:
+        Relation22.add(item)
+        for kid in item.children:
+            Relation22.add(kid)
+    ROOT1=None
+    for token in docx:
+        if (Subject1.root.head == token and Object1.root.head == token) or (
+                token.is_ancestor(Subject1.root.head) and token == Object1.root.head) or (
+                token.is_ancestor(Object1.root.head) and token == Subject1.root.head) or (
+                token.is_ancestor(Subject1.root.head) and token.is_ancestor(Object1.root.head)):
+            ROOT1=token
+            Relation1=set()
+            Relation1.add(token)
+    if ROOT1==None:return False
+
+    for child in ROOT1.children:
+        if child.is_ancestor(Subject1.root) or child.is_ancestor(
+            Object1.root) or child == Object1.root or child == Subject1.root:
+                Relation1.add(child)
+    Relation11 = set()
+    for item in Relation1:
+        Relation11.add(item)
+        for kid in item.children:
+            Relation11.add(kid)
+
+    rel1=repr(Relation11)
+    rel2=repr(Relation22)
+    print(Relation11)
+    print(Relation22)
+    if does_itfit(rel1,rel2):
+        relation_is_similar=True
+    if relation_is_similar and object_is_in and subject_is_in:
+        return True
+    else:
+        return False
+
+
+
+
+
+
+
+def ENTAIL(str1,str2):
+    doc=nlp(str1)
+    docx=nlp(str2)
+    for token in docx:
+        if token.dep_=='pobj' or token.dep_=='iobj':
+            return entailment2(str1,str2)
+
+    return entailment(str1,str2)
+
+
+all=0
+success=0
+TP=0
+FP=0
+TN=0
+FN=0
+
+with jsonlines.open('/home/csiszp/Downloads/multinli_1.0/multinli_1.0_dev_matched.jsonl') as f: # opening file in binary(rb) mode
+   for item in f:
+       if item['gold_label']!='contradiction':
+        all=all+1
+        Result=ENTAIL(item['sentence1'],item['sentence2'])
+        if Result==True and item['gold_label'] == 'entailment':
+            success=success+1
+            TP=TP+1
+
+        if Result==False and item['gold_label'] == 'entailment':
+            FN=FN+1
+            print(item['sentence1'],item['sentence2'])
+
+        if Result==True and item['gold_label'] == 'neutral':
+            FP=FP+1
+
+        if Result==False and item['gold_label']=='neutral':
+            success=success+1
+            TN=TN+1
+
+        print(success, " / ", all)
+        print("False Neg: ", FN)
+        print("False Pos: ", FP)
+        print("True Neg: ", TN)
+        print("True Pos: ", TP)
+
+
+print(success, " / ",all)
+"""
+
+
+str1="The census of 1931 served as an alarm signal for the Malay national consciousness."
+str2="The 1931 Malay census was an alarm bell."
+print(ENTAIL(str1,str2))"""
