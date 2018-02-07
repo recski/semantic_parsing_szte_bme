@@ -32,3 +32,29 @@ False Neg:  2206 /was entailment, but judged as neutral
 False Pos:  759 /was neutral but judged as entailment
 True Neg:  2364 /was neutral, correctly judged
 True Pos:  1273 /was entailment, correctly judged
+
+Version 0.4
+
+Added the ability to detect Contradictions based on a very simple method:
+If the sentence pairs look like an entailment, check how many "neg" dependencies are in each sentence.
+In other words: if the Subj and Obj matches but if they contain an uneven number of nots and didn'ts and wasn'ts etc.
+Example: Susie went to meet Mike. Susie didn't go out to see Mike.
+
+Added new analysis tags: True Hit Neutral/Entailment/Contradiction and Judged N/E/C When N/E/C
+Here are the statistics:
+THE:  537
+THN:  2851
+THC:  279
+JEWN:  221
+JEWC:  255
+JCWN:  51
+JCWE:  76
+JNWC:  2679
+JNWE:  2866
+3667  /  10000
+
+Notes on this iteration: This way of looking for contradictions seems alright as 279 out of 406 C judgements were correct.
+The code decides too easily that the pair is Neutral: 2851 correct out of more than 8400 N judgements.
+Entailment is 537 out of 1013.
+To do: Compare the A branch and B branch effectiveness. Take a closer look at JNWE as it seems to be the largest source of errors
+and find out why so many sentence pairs get tagged as Neutral.
