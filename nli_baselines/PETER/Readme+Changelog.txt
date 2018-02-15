@@ -58,3 +58,19 @@ The code decides too easily that the pair is Neutral: 2851 correct out of more t
 Entailment is 537 out of 1013.
 To do: Compare the A branch and B branch effectiveness. Take a closer look at JNWE as it seems to be the largest source of errors
 and find out why so many sentence pairs get tagged as Neutral.
+
+Version 1.0 : BASELINE:
+
+Optimised speed, now should finish analyzing the corpus in the fraction of the original time.
+Added stopword removal into the analysis of the relationship between subject and object.
+Added adjustable threshold: HOW TO:
+Change the path to the NLI Corpus in the code before you run it.
+Install spaCy
+Install jsonlines
+Download the english spaCy language module
+Run the code
+When it says 10000/10000 input a number between 0 and 1,
+that will be the threshold above which you consider two tokens, chunks or sentences similiar.
+Observe the statistics of your choice in the output.
+
+
