@@ -1,0 +1,19 @@
+New Baseline with different method:
+
+From here on: Sentence 1 is referred to as DOC(ument).
+Sentence 2 is referred to as HYP(othesis).
+
+We are first matching the Noun chunks in HYP.
+Then we find the best Noun chunk match for each in DOC.
+Best match means the highest similiarity, determined by spacy (using word vectors).
+
+The remaining tokens in the HYP are taken and found the best match in DOC.
+Just like with the chunks, we determine the best match for each.
+
+We then add the similiarities, and can either average it, or just add it up.
+
+When the Output says 10000/10000 it means that all the sentence pairs and golden_tags are stored.
+
+Afterwards you can input a treshold for similiarity,
+the program will immediately return with the statistics for the result.
+
