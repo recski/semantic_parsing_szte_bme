@@ -1,0 +1,16 @@
+Evaluator Notebook for results calculated in your codes.
+
+It will plot your Fscores, Precisions and Recalls for all 3 categories.
+It will also list outliers at the bottom, and group Entailment and Contradiction into a Relation category,
+and give you statistics on that as well.
+
+The Input file that contains your similarity scores has to be in the following format.: (can also be seen in Results.txt)
+Each line contains one float between 1 and -1
+the closer to one, the more confident you are it is entailment, 
+the closer to -1 the more confident you are in contradiction
+the closer to 0 you are, the more confident you are in the sentence pair being neutral
+
+The NLI file you processed has to be put (jsonline version of it) in it's proper place,
+so is your file containing the results. 
+
+After that, just run the notebook, and observe the results.
