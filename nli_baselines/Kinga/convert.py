@@ -2,7 +2,7 @@ import gensim
 import json
 import spacy
 
-model = gensim.models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
+model = gensim.models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True, limit=100000)
 nlp = spacy.load('en')
 special_characters = [',', '.', '?', '!', ':', ';', '-', '(', ')']
 
@@ -28,25 +28,32 @@ def analyse_line(line):
     sentence = get_information(line)
     root1 = vectorise(sentence.sentence1)
     root2 = vectorise(sentence.sentence2)
-    try:
-        similarity_per_root = []
-        for r1 in root1:
-            for r2 in root2:
-                similarity = {"root": model.similarity(r1, r2)}
-                child_similarity = []
-                for child1 in root1[r1]:
-                    for child2 in root2[r2]:
-                        if child1 == child2:
-                            child_similarity.append(1.0)
-                        elif child1.startswith("-PRON-") or child2.startswith("-PRON-"):
-                                continue
-                        else:
-                            child_similarity.append(model.similarity(child1, child2))
+    similarity_per_root = []
+    root_pairs = [(r1, r2) for r1 in root1 for r2 in root2]
+    for root_pair in root_pairs:
+        try:
+            similarity = {"root": model.similarity(root_pair[0], root_pair[1])}
+            child_similarity = []
+            for child1 in root1[root_pair[0]]:
+                best_child2 = 0.0
+                for child2 in root2[root_pair[1]]:
+                    if child1 == child2:
+                        best_child2 = 1.0
+                    elif child1.startswith("-PRON-") or child2.startswith("-PRON-"):
+                        continue
+                    else:
+                        try:
+                            child_sim = model.similarity(child1, child2)
+                            if best_child2 < child_sim:
+                                best_child2 = child_sim
+                        except KeyError:
+                            continue
+                    child_similarity.append(best_child2)
                 similarity["children"] = child_similarity
-                similarity_per_root.append(similarity)
-        return {"label": sentence.label, "relations": similarity_per_root}
-    except KeyError:
-        return None
+            similarity_per_root.append(similarity)
+        except KeyError:
+            return None
+    return {"label": sentence.label, "relations": similarity_per_root}
 
 
 def vectorise(sentence):
@@ -68,17 +75,15 @@ def vectorise(sentence):
 
 
 def main():
-    jsonl_file = 'multinli_1.0_train.jsonl'
-    jsonl = open(jsonl_file, 'r')
-    line = jsonl.readline()
-    i = 0
-    label_and_similarity = {}
-    while line is not None and line != "":
-        label_and_similarity["sentence_pair"+str(i)] = analyse_line(line)
-        i += 1
+    with open('multinli_1.0_train.jsonl', 'r') as jsonl:
         line = jsonl.readline()
+        i = 0
+        label_and_similarity = {}
+        while line is not None and line != "":
+            label_and_similarity["sentence_pair"+str(i)] = analyse_line(line)
+            i += 1
+            line = jsonl.readline()
 
-    jsonl.close()
     with open('root-children.json', 'w') as jsonl_out:
         json.dump(label_and_similarity, jsonl_out)
 
