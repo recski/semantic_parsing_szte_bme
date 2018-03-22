@@ -1,0 +1,86 @@
+[tobbfele def]
+id: 111384e
+score: 0.0
+premise: I tipped it upside down.
+hyp: I turned it over.
+
+id: 124495e
+score: 0.0
+premise: From Beforethewars."
+hyp: From before the wars.
+
+id: 121203e
+score: 0.0
+premise: --Yours humbly,
+hyp: Sincerely
+
+id: 47327e
+score: 0.0
+premise: Bad idea!
+hyp: Terrible idea!
+
+id: 53638e
+score: 0.0
+premise: Yes a bargain.
+hyp: That's a bargain, yes.
+
+id: 70467e
+score: 0.0
+premise: Yes, often. 
+hyp: Yes, a lot of the time.
+
+id: 61220e
+score: 0.0
+premise: Champagne-Ardennes
+hyp: Champagne-Ardennes
+
+id: 130730e
+score: 0.0
+premise: Hired car. 
+hyp: Rented car.
+
+id: 124529e
+score: 0.0
+premise: Dogging 'Rita'  
+hyp: Rita got dogged.
+
+//erdekes
+id: 68744e
+score: 0.0
+premise: Ten years, sir.
+hyp: About a decade, sir.
+
+id: 116129e
+score: 0.0
+premise: I tried.
+hyp: I did my best.
+
+id: 95092e
+score: 0.0
+premise: I'm right, then.
+hyp: I am correct then.
+
+id: 375e
+score: 0.0
+premise: (Emphasis added.)
+hyp: The emphasis was added by the editor.
+
+id: 3759e
+score: 0.0
+premise: Israel and the Israelis
+hyp: Israel and the Israelis
+
+id: 139856e
+score: 0.0
+premise: They declined.
+hyp: They did not accept.
+
+id: 32843e
+score: 0.0
+premise: especially around bonus time
+hyp: Especially around the time of the bonus.
+
+id: 116210e
+score: 0.0
+premise: We don't know.
+hyp: We can't be sure.

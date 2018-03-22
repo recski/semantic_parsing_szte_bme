@@ -1,0 +1,162 @@
+[nehany modosito]
+id: 83616n
+score: 0.777777777778
+premise: Instead, Intel makes real things.
+hyp: Intel makes actual things instead, accoding to the news.
+
+id: 3272n
+score: 0.909090909091
+premise: The others followed.
+hyp: The others had followed Jon.
+
+id: 119476n
+score: 0.916666666667
+premise: It covers most but not all close Senate and gubernatorial races.)
+hyp: The radio station covers most close gubernatorial races
+
+id: 118563n
+score: 0.785714285714
+premise: 'Well, I can get it working like a person.'
+hyp: I can get the machine to work like a person.
+
+id: 102911n
+score: 0.826446280992
+premise: The company once assembled, Poirot rose from his seat with the air of a popular lecturer, and bowed politely to his audience. 
+hyp: Poirot rose from his seat, bowed and started addressing the audience.
+
+id: 9333n
+score: 0.823529411765
+premise: you ever serve that yourself when you have company
+hyp: Did you ever serve that yourself when you had a company, it's awful.
+
+id: 42104n
+score: 0.897959183673
+premise: RESEARCH AND DEVELOPMENT ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September
+hyp:  RESEARCH AND DEVELOPMENT ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September every year since 1912.
+
+id: 120124n
+score: 0.8
+premise: of the road.
+hyp: Materials of the road 
+
+id: 139993n
+score: 0.8
+premise: mail used by non-households to send and pay bills to other non-households).
+hyp: Mail used by non-households to pay bills to other non-households is a very effective method.
+
+id: 37126n
+score: 0.923076923077
+premise: My guess is they ain't sure.
+hyp: My guess is they ain't sure who there dad is.
+
+
+id: 110747n
+score: 0.736842105263
+premise: well how bad were the side effects
+hyp: There were only negative side effects.
+
+id: 145415n
+score: 0.885245901639
+premise: Entitlements are not the only thing that matters.
+hyp: Entitlements do matter, but not as much as the other things. 
+
+id: 126476n
+score: 0.756756756757
+premise: They actually seem to play because they love their game.
+hyp: They seem to play because of their love of the game and of each other.
+
+id: 134857n
+score: 0.857142857143
+premise: yeah that's right it's kind of nice too to have that fall
+hyp: It's kind of nice in your 20s to have that fall
+
+id: 61624n
+score: 0.869565217391
+premise: Britain's political and economic connections to Madeira can be traced to the 17th century.
+hyp: Britain has political and economic connections to Madeira because of the wine trade.
+
+id: 131720n
+score: 0.8125
+premise: But the Army shows the process can work, and can help.
+hyp: The army promises that it can help if the process is used.
+
+[szamok]
+id: 126269n
+score: 0.7
+premise: we drive sixty five oh yes well
+hyp: The vehicle was a hybrid in which we drove 65.
+
+id: 84839n
+score: 0.913793103448
+premise: 9 In another sixteen states, LSC funding represents over 50% of the total investment in the civil legal services system.
+hyp: In some states, LSC funding is at least 52% of the total investment in the civil legal services system.
+
+id: 120247n
+score: 0.8125
+premise: There are many different establishments to choose from, each with its own clientele and style.
+hyp: There are more than 20 different establishments to choose from.
+
+id: 89110n
+score: 0.75
+premise: Lincoln actually counted then down.
+hyp: Lincoln counted down from twenty. 
+
+
+[teljes]
+id: 68412n
+score: 1.0
+premise: A good sword, high ground, or exceptional skill may push the odds but never by much.
+hyp: A good sword gives people the slight edge if it is made of steel.
+
+id: 128052n
+score: 1.0
+premise: The picture reportedly ended with a shot of black smoke coming out of the stack--but we'll never know because The Day the Clown Cried was judged too obscene to be released, and Lewis went back to parading doomed kids across the TV screen in telethons, while Americans goggled at his stamina, and senators nominated him for the Nobel Peace Prize.
+hyp: The picture ended with a shot of black smoke coming out of the stack.
+
+id: 30451n
+score: 1.0
+premise: You have? 
+hyp: He has.
+
+id: 94908n
+score: 1.0
+premise: Take no unnecessary risks once the papers are in your hands.
+hyp: If the papers are in your hands, risks might come.
+
+
+[MIÉRT?]
+id: 139109n
+score: 0.870967741935
+premise: European Tour, takes place at Santo da Serra Golf Club.
+hyp: The European tour can be found at the Santo da Serra Golf Club.
+
+
+//miért
+id: 26097n
+score: 0.864864864865
+premise: Thorn and the Kal will help prepare the spikes.
+hyp: Thor and the Kal will help the others prepare the spikes. 
+
+//miért
+id: 15301n
+score: 0.851063829787
+premise:  "Heard tell as you boys don't think th' war's clear over yet,"Fenner observed.
+hyp: Fenner heard in the bar that these boys don't think the war is over.
+
+//nehez
+id: 23781n
+score: 0.909090909091
+premise: To many Madeirans who believe the Lady of Monte has carried them through troubled times, the pilgrimage is an obligation.
+hyp: Because the Lady of Monte is believed to have carried them through troubled times, Madeirans believe the pilgrimage is an obligation.
+
+
+[egyeb]
+id: 83449n
+score: 0.72
+premise: Harrison D. McIver III, MALS executive director, said the agency was very gratified by the Community Foundation's grant. 
+hyp: MALS got a $50,000 grant from the Community Foundation.
+
+id: 16126n
+score: 0.928571428571
+premise: no it uh it started leaking through the you know out through the pan and out onto the floor and it's soaking up in the Sheetrock or in things right
+hyp: It started to leak a lot.
