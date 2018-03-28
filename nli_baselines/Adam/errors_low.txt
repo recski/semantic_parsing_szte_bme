@@ -1,0 +1,1705 @@
+
+id: 81785e
+score: 0.0
+premise: Issues in Data Synthesis.
+hyp: Problems in data synthesis.
+
+id: 37604e
+score: 0.0
+premise: In the crypt are interred the remains of Voltaire and Rousseau, Hugo and Zola, assassinated Socialist leader Jean Jaurys, and Louis Braille, the inventor of the alphabet for the blind.
+hyp: The remains of Voltaire and Rousseau, Hugo and Zola, assassinated Socialist leader Jean Jaurys, and Louis Braille are all interred in the crypt.
+
+id: 133002e
+score: 0.0
+premise: Take a remarkable statistic that Shesol cites but lets pass relatively unexamined.
+hyp: They had data that was very relevant but under used.
+
+id: 63983e
+score: 0.0
+premise: The rule requires broadcasters to maintain a file for public inspection containing a Children's Television Programming Report and to identify programs specifically designed to educate and inform children at the beginning of those programs and to furnish such information to the publishers of program guides.
+hyp: The rule makes broadcasters keep a file about children's television programming.
+
+id: 32331e
+score: 0.0
+premise: The fourth-century Roman emperor Gratianus was an early visitor, followed much later by such luminaries as the Romantic poet Alphonse de Lamartine, Queen Victoria, Saint-Sa?«ns, and Rachmaninov.
+hyp: Gratianus was a Roman empoeror.
+
+id: 133436e
+score: 0.0
+premise: no oh no oh well take care
+hyp: Bye for now.
+
+id: 85540e
+score: 0.0
+premise: 'Less loud.
+hyp: Please be quiet.
+
+id: 29069e
+score: 0.0
+premise: Said I was foolishly proud. 
+hyp: My pride was foolish not well placed.
+
+id: 64335e
+score: 0.0
+premise: i i'm i'm not really impressed with i mean i lived in Germany for three years i i was i'm not impressed with skiing now i like i like other you know winter sports but i'm not real thrilled about them
+hyp: I am not a big fan of winter sports.
+
+id: 73847e
+score: 0.0
+premise: Have you any tips to give us before we clear out?"
+hyp: Anything we should know?
+
+id: 31086e
+score: 0.0
+premise: There are good road connections between Sant Antoni and both CaleT?¡rida and CaleBadella, with the result that both bays have now been developed.
+hyp: With the good road connections, both bays have been developed.
+
+id: 70745e
+score: 0.0
+premise: Hopefully, Wall Street will take voluntary steps to address these issues before it is forced to act.
+hyp: Wall Street is facing issues, that need to be addressed. 
+
+id: 79037e
+score: 0.0
+premise: yeah well i'm well i'm definitely for it
+hyp: I am certainly in agreement with it.
+
+id: 111384e
+score: 0.0
+premise: I tipped it upside down.
+hyp: I turned it over.
+
+id: 65249e
+score: 0.0
+premise: Just a hunch.
+hyp: It is just a guess
+
+id: 65697e
+score: 0.0
+premise: The SPAN  A Guide to Legal Services Planning.
+hyp: The SPAN A guide is a guide used for legal service planning.
+
+id: 82393e
+score: 0.0
+premise: Leave the river briefly to loop east around Talcy, with its Romanesque church and the 13th-century chateau of Thizy, before ending your trip at Montr??al.
+hyp: It is recommended that you leave river briefly before ending your trip at Montréal.
+
+id: 30081e
+score: 0.0
+premise: AUTHORIZING AND APPROVING 
+hyp: Granting permission.
+
+id: 15953e
+score: 0.0
+premise: Inside, a huge mountain of a man, even bigger than Thorn, fought with a huge two-handed axe.
+hyp: The man was extremely large. 
+
+id: 57778e
+score: 0.0
+premise: Moreover, the realignment will help us to enhance our longterm capacity by improving recruitment and retention; building a succession plan; focusing on emerging issues; and leveraging technology opportunities for improvements to clients, processes, and employees.
+hyp: Long term capacity will be improved by the realignment.
+
+id: 138333e
+score: 0.0
+premise: What about me?
+hyp: Me too?
+
+id: 109098e
+score: 0.0
+premise: Stop blaming John.
+hyp: Quit holding John responsible.
+
+id: 32613e
+score: 0.0
+premise: Given the assumptions and economic drivers in each of the scenarios, the AMIGA model calculates the capital investment, operation and maintenance, and fuel costs necessary to meet consumer demand for electricity.
+hyp: The AMIGA model finds the capital investment.
+
+id: 97850e
+score: 0.0
+premise: Meanwhile, lawyers were at a premium Indians love litigation and it was ideal training for future politicians and politics had been clandestine, because it was so often fatal to express an opinion on the wrong (i.e. , losing) side.
+hyp: Lawyers were at a premium and it was ideal training for future politicians and politics.
+
+id: 80160e
+score: 0.0
+premise: Someone was applauding.
+hyp: A person applauded.
+
+id: 112446e
+score: 0.0
+premise: This is a colourful Middle Eastern-Yemenite restaurant (where the downstairs is expensive, and the upstairs is less formal) with an interesting menu of meat and offal.
+hyp: The restaurant serves Middle Eastern-Yemenite food.
+
+id: 142881e
+score: 0.0
+premise: Table 7-1 shows a summary of resource demand and its effect on current supply.
+hyp: The table shows a summary of the resources in demand.
+
+id: 100978e
+score: 0.0
+premise: Unless otherwise noted, hotels take all major credit cards.
+hyp: Hotels accept credit cards as payment unless otherwise stated.
+
+id: 23244e
+score: 0.0
+premise: expressed about the methodology and results of the procedures to determine the federal pay gap.
+hyp: The methodology and results were used to determine the federal pay gap.
+
+id: 94231e
+score: 0.0
+premise: Chambers developed increasing reservations in his later years about the direction the American right was taking, distancing himself first from Joe McCarthy, then from Richard Nixon, and even from William Buckley Jr.'s National Review . But Chambers' importance lies, finally, not in his politics but in his romantic penchant for the extremes of the psychic and political undergrounds.
+hyp: Chambers built a wall between himself and McCarthy and Nixon.
+
+id: 59806e
+score: 0.0
+premise: The place was a living tomb… .
+hyp: It was no more than a living tomb.
+
+id: 91580e
+score: 0.0
+premise: The dramatically rising cliff of black basalt stone made the castle impregnable to all but the most wily commander.
+hyp: The castle was secure due to its proximity to a cliff.
+
+id: 71215e
+score: 0.0
+premise: yeah the current average or whatever
+hyp: Yeah the average right now.
+
+id: 105144e
+score: 0.0
+premise: U.S. economic interests through the prevention and mitigation ofmarine incidents.
+hyp: Prevention of marine incidents for U.S. economic reasons.
+
+id: 46476e
+score: 0.0
+premise: As a matter of fact he is.
+hyp: He is, actually. 
+
+id: 92504e
+score: 0.0
+premise: if a person has done a crime so bad that the jury gives them the death penalty now the Supreme Court says we've got to give them one appeal okay i agree give them one appeal when that appeal fails within thirty days execution of sentence
+hyp: You are allowed to appeal the death sentence. 
+
+id: 3228e
+score: 0.0
+premise: yeah i do that too
+hyp: Yes, I do that as well.
+
+id: 7479e
+score: 0.0
+premise: I could.
+hyp: I am able to.
+
+id: 112923e
+score: 0.0
+premise: So-called Houston! This one problem, Denise, or maybe Dennis, was repeating.
+hyp: There is a question about the gender of the announcer.
+
+id: 46719e
+score: 0.0
+premise: 'Exactly,' he nodded.
+hyp: He responded.
+
+id: 108911e
+score: 0.0
+premise: Using lower cut points for females may maximize screening test performance.
+hyp: Females might perform higher on the screening tests if the cut points are reduced.
+
+id: 110676e
+score: 0.0
+premise: For certain types of work to be performed at an agency, GAO may initially provide only telephone or e-mail message notification.
+hyp: GAO might only give telephone or email messages.
+
+id: 64389e
+score: 0.0
+premise: We have examples of these in the giant outer planets.
+hyp: There are instances of this in some large bodies.
+
+id: 49961e
+score: 0.0
+premise: Greenhouse gas emissions should be addressed in the context of climate change, which is being undertaken by the President's Cabinet level working group.
+hyp: Greenhouse gases and climate change are being worked on by the President's Cabinet.
+
+id: 39922e
+score: 0.0
+premise: 1.7, formerly methodology transfer paper 7.
+hyp: It used to be paper 7.
+
+id: 139017e
+score: 0.0
+premise: Under current law, LSC recipients may provide legal assistance to an alien if the alien is present in the United States and falls within one of several designated 
+hyp: LSC recipients may provide legal aid to foreign people.
+
+id: 3211e
+score: 0.0
+premise: MSNBC, USA Today, and Yahoo!
+hyp: There are news networks.
+
+id: 95750e
+score: 0.0
+premise: That goddamned hamster dance.
+hyp: That darn little animal dance.
+
+id: 62383e
+score: 0.0
+premise: and uh you know people say you know it's expensive for to send kids to college but if if an everybody would be a little bit responsible you know it's like what what does it cost it costs five hundred dollars a semester suppose that they go to a state college and they live at home
+hyp: People say college is expensive.
+
+id: 107312e
+score: 0.0
+premise: oh just to see just just to check on a lab
+hyp: To see and check the lab.  
+
+id: 67026e
+score: 0.0
+premise: Federal Acquisition Streamlining Act of 1994 (FASA) (Public Law 103-355) a This law requires agencies to define cost, schedule, and performance goals for federal acquisition programs (to include IT projects) and monitor These programs to ensure that they remain within prescribed tolerances.
+hyp: This law demands agencies define various goals for acquisition programs.
+
+id: 131173e
+score: 0.0
+premise: This is all pure  high-toned and irritating, vibrating with barely curtailed snobbism, but also venturing hard queries and unpopular responses.
+hyp: This is obnoxious and snobby.
+
+id: 7931e
+score: 0.0
+premise: Cold Mountain is advanced humbug.
+hyp: Advanced humbug means Cold Mountain.
+
+id: 26676e
+score: 0.0
+premise: Physicians are unlikely to screen if it affects their legitimate expectation for financial remuneration for patient care.
+hyp: Physicians are doctors for children.
+
+id: 25317e
+score: 0.0
+premise: Comments on classified or restricted reports should be transmitted in the manner agreed to by GAO and the agency.
+hyp: There are specific transmission methodologies for classified reports.
+
+id: 63271e
+score: 0.0
+premise: Other publications can be cavalier without worrying about squashing an author's budding career.
+hyp: Some publications can be rather cavalier without fear.
+
+id: 55628e
+score: 0.0
+premise: Moreover, the U.S. and worldwide ammonia business is struggling because of slumping domestic demand and increased global capacity for the product and other nitrogen fertilizers derived from it, such as urea.
+hyp: The ammonia business has been facing competition from the urea business.
+
+id: 56317e
+score: 0.0
+premise: You won't envy the men and women you see working in the fields under the blazing sun, but they're never too tired to return your wave with a smile.
+hyp: The people who labor outside are optimistic and kind.
+
+id: 46532e
+score: 0.0
+premise: At its southern end you'll find The Old Cataract Hotel, harking back to the days of Edwardian elegance.
+hyp: The Old Cataract Hotel is at its southern end.  
+
+id: 2053e
+score: 0.0
+premise: Its spacious grounds are a magnificent example of the strolling gardens favored during the Edo period.
+hyp: In the Edo period, gardens were favored and built on spacious grounds.
+
+id: 36070e
+score: 0.0
+premise: Leather Goods.
+hyp: Genuine Leather Goods.
+
+id: 34093e
+score: 0.0
+premise: Why not? The girl hesitated.
+hyp: It gave her pause.
+
+id: 145198e
+score: 0.0
+premise: For years, federal agencies have struggled with delivering promised system capabilities on time and within budget.
+hyp: Federal agencies have long had difficulty delivering capabilities on time.
+
+id: 64415e
+score: 0.0
+premise: Rupert Murdoch is rumored to be interested in buying it and turning it into a West Coast version of the New York Post . A circulation-hungry Willes vs. the rapacious  That's just the kind of fight the American newspaper industry needs.
+hyp: It is rumored that Rupert Murdoch is interested in buying it and turning it into a West Coast version of the New York Post.
+
+id: 120604e
+score: 0.0
+premise: Totals may not sum due to rounding.
+hyp: Rounding may cause inaccurate totals.
+
+id: 140029e
+score: 0.0
+premise: And no one will be nicer.
+hyp: And not a single person will act in a more kind manner.
+
+id: 36742e
+score: 0.0
+premise: Leading commercial companies have achieved more predictable outcomes from their product development processes because they identify and control design and manufacturing risks early and manage them effectively.
+hyp: Desirable outcomes are achieved in part by identifying design risks early.
+
+id: 55466e
+score: 0.0
+premise: work and our congressionally driven examinations of how well agencies are pursuing
+hyp: Congress sometimes wants the progress of agencies examined by us.
+
+id: 12120e
+score: 0.0
+premise: Today it houses a small museum?­.
+hyp: It contains a small museum.
+
+id: 23822e
+score: 0.0
+premise: At times in recent years, the office has received its state and federal funding on a month-to-month basis, which one federal official called one step short of defunding.
+hyp: The office gets state and federal funding.
+
+id: 48477e
+score: 0.0
+premise: A narrow cobbled trail of 587 steps leads from the town to the small port below, now the domain of a fleet of donkeys that wait to carry cruise ship passengers into town.
+hyp: A fleet of donkeys ferries passengers from the town to the port.
+
+id: 85687e
+score: 0.0
+premise: The fire burns, and it destroys. 
+hyp: The fire destroyed it. 
+
+id: 90408e
+score: 0.0
+premise: The resources required for the installation of control technologies to achieve the emission reductions under the Clear Skies Act were estimated and compared to their current market availability.
+hyp: Installing control technologies in order to reduce emissions required resources.
+
+id: 26875e
+score: 0.0
+premise: Some were museum pieces.
+hyp: A few of them were pieces from museums.
+
+id: 113961e
+score: 0.0
+premise: receive information.
+hyp: There is a demand of information.
+
+id: 102390e
+score: 0.0
+premise: This major initiative, conceived by Supreme Court Justice Anthony M. Kennedy, is the American Bar Association's principal Law Day outreach this year.
+hyp: Kennedy and the ABA worked together.
+
+id: 93453e
+score: 0.0
+premise: All those stories of Apaches weaseling into touching distance of the guard at the Stronghold.... Why, only last year the younger Rivas boy had had his throat slit out in the hay field within sight of his home!
+hyp: The Rivas boy was killed a year ago.
+
+id: 49820e
+score: 0.0
+premise: The first prong would represent basic reporting applicable to all public companies.
+hyp: Reporters follow a framework outlining basic principles. 
+
+id: 135227e
+score: 0.0
+premise: and there's a big difference
+hyp: And there is a significant discrepancy.
+
+id: 138704e
+score: 0.0
+premise: Since then, Albert has served out his probation and has anchored a nightly sports show at New York City's Madison Square Garden.
+hyp: The ex-con is now a sportscaster.
+
+id: 100237e
+score: 0.0
+premise: South Audley Mansions was an imposing-looking block of flats just off Park Lane.
+hyp: South Audley Mansions was close to Park Lane.
+
+id: 141786e
+score: 0.0
+premise: that's real nice
+hyp: that's very good.
+
+id: 61918e
+score: 0.0
+premise: Benedykt Ossolinsky, age 39, began to grow childish.
+hyp: The person named Benedykt Ossolinsky lived to be at least 39 years old. 
+
+id: 85285e
+score: 0.0
+premise: Set among formal gardens on a bluff overlooking the Manzanares valley, on the site of the old Moorish fortress (which burned down in 1734), the immense and imperious residence is loaded with art and history.
+hyp: There is plenty of art and history to be absorbed in the residence.
+
+id: 90291e
+score: 0.0
+premise: Horrible crime.
+hyp: The crime is seen as something horrible.
+
+id: 58609e
+score: 0.0
+premise: You'll see what I mean." The throb of the motor came through the open window, and Miss Howard rose and moved to the door. 
+hyp: The engine could be heard through the open window.  
+
+id: 71850e
+score: 0.0
+premise: North she would be captured by the Eye.
+hyp: The Eye was a threat to the North.
+
+id: 78486e
+score: 0.0
+premise: [Y]ou would probably be traipsing through New York right now, enjoying many misadventures, like a latter-day Ann Marie, Marlo Thomas' character from the 1966-1971 TV sitcom That Girl . Why, there is even a resemblance!
+hyp: You could be in New York having adventures right now.
+
+id: 112523e
+score: 0.0
+premise: Injury as a motivator to reduce drinking.
+hyp: Aversion therapy applied to excessive drinking.
+
+id: 57004e
+score: 0.0
+premise: Consider the United States Postal Service.
+hyp: Ponder on the United States Postal Service.
+
+id: 100143e
+score: 0.0
+premise: , Data for  Information Strategies for
+hyp: Information for data and strategies.
+
+id: 37804e
+score: 0.0
+premise: The Liberal Humanitarians are a product of the post-Cold War peace.
+hyp: Post-Cold War peace resulted in the creation of The Liberal Humanitarians.
+
+id: 84529e
+score: 0.0
+premise: Examples of Control Activities
+hyp: Examples of control activities 
+
+id: 44927e
+score: 0.0
+premise: A risk assessment is the process of identifying potential risks in a system under development and then determining the significance of each risk in terms of its likelihood and impact on the acquisition's cost, schedule, and ability
+hyp: The risk assessment finds potential risks in a system that's being developed.
+
+id: 116006e
+score: 0.0
+premise: Drew sat watching the dust arise again as the trio of riders pounded away.
+hyp: Drew watched the three riders ride away.
+
+id: 8136e
+score: 0.0
+premise: well i'll check that out uh-huh
+hyp: Well, I will look into that.
+
+id: 96617e
+score: 0.0
+premise: To the left of the high altar is a small chapel whose 10th-century Madonna di Nicopeia, a bejeweled icon also from Constantinople, is said to have healing powers and is a runner-up as Venice's protective patron after St. Mark.
+hyp: The small chapel's Madonna di Nicopeia dates to the 10th century.
+
+id: 4782e
+score: 0.0
+premise: yeah it's a nice way to relax i mean in a way i mean i find it anyway although sometimes watching the news isn't very relaxing  i get home from from
+hyp: Watching the news isn't always relaxing.
+
+id: 72574e
+score: 0.0
+premise: A town of peace far from those who hunt for you.
+hyp: The town was peaceful.
+
+id: 96801e
+score: 0.0
+premise: It's afterward that the trouble starts.
+hyp: The trouble started after.
+
+id: 409e
+score: 0.0
+premise: quite creative and appealing to the younger crowd
+hyp: Quite inventive and popular with the younger crowd.
+
+id: 51262e
+score: 0.0
+premise: How do we know this?
+hyp: Are we sure of this?
+
+id: 40767e
+score: 0.0
+premise: Most drivers will be able to point out the Bok House, transformed into the elegant Coq d'Or Restaurant.
+hyp: The Bok House is transformed into a restaurant.
+
+id: 143112e
+score: 0.0
+premise: how are things in your area in that respect
+hyp: How's everything where you are as far as that goes? 
+
+id: 2211e
+score: 0.0
+premise: What if a foundering political campaign were the wacky premise for a failing TV show!
+hyp: How about a failing TV show about a political campaign that's collapsing?
+
+id: 73153e
+score: 0.0
+premise: The gardens are popular with children who enjoy watching the marionette shows, riding donkeys, and sailing boats on the circular ponds.
+hyp: Children really like the marionette shows in the gardens.
+
+id: 27566e
+score: 0.0
+premise: Using this criteria the agency estimated that 4,600 of the 6,400 firms affected by the rule would be small businesses and that approximately 15,000 small entities in the industry groups affected by the proposed rule would not be affected as they employed less than 10 persons.
+hyp: The agency estimated that about two thirds of the firms would be affected.
+
+id: 31074e
+score: 0.0
+premise: Well, why read any type of fiction?
+hyp: Well, then, what's the point of reading any kind of fiction?
+
+id: 49011e
+score: 0.0
+premise: where you they extend the warranty
+hyp: Warranties offer extensions. 
+
+id: 34524e
+score: 0.0
+premise: I don't know if I was in heaven or hell, said Lillian Carter, the president's mother, after a visit.
+hyp: The president's mother visited.
+
+id: 118121e
+score: 0.0
+premise: Nearby on the banks of the river is the Nile Hilton Hotel a landmark for Cairenes (as the people of the city are known) as well as tourists.
+hyp: Close on the banks of the River exists the Nile Hilton Hotel, known by the locals as well as tourists.
+
+id: 43952e
+score: 0.0
+premise: This column, as my first in the Strange Bed, is free of history.
+hyp: This column is free of history.
+
+id: 38177e
+score: 0.0
+premise: South of Gezira is Roda Island, home to Manial Palace, now converted into an art gallery.
+hyp: Roda Island is home to the palace.
+
+id: 28530e
+score: 0.0
+premise: have you ever been there
+hyp: Did you ever go?
+
+id: 136895e
+score: 0.0
+premise:  Senor Juanito said that.
+hyp: Señor Juanito commented that.
+
+id: 106623e
+score: 0.0
+premise: Politics and Prose wrapped the book perfectly.
+hyp: The book was solidly finished by a discussion of political writing.
+
+id: 136031e
+score: 0.0
+premise: Since Orange is the gateway to Provence, make an appropriate entrance into town from the north, at the imposing three-arched arc de triomphe.
+hyp: The gateway to Provence is Orange.
+
+id: 135271e
+score: 0.0
+premise: GAO's work, the Congress reduced the fiscal year 1999 military personnel budget for active and reserve forces by about $609 million without compromising overall readiness.
+hyp: The congress reduced the military personnel budget without compromising readiness. 
+
+id: 64294e
+score: 0.0
+premise: Disease took a further toll.
+hyp: Disease was an additional burden on the people.
+
+id: 26431e
+score: 0.0
+premise: The newsweeklies chronicle Flytrap's denouement.
+hyp: Flytrap is a subject in published articles.
+
+id: 68909e
+score: 0.0
+premise: Emperor Divers is a long-established operation with offices at Hurghada, Na'am Bay, and Nuweiba.
+hyp: Emperor Divers has been around for a long time.
+
+id: 37872e
+score: 0.0
+premise: The devil!
+hyp: Lucifer!
+
+id: 55400e
+score: 0.0
+premise: It wasn't so easy, by a long chalk! 
+hyp: This was hard by any measure.  
+
+id: 110758e
+score: 0.0
+premise: It was hard to see, since there was no electric lighting system now.
+hyp: The view was hard to see due to the light.
+
+id: 109840e
+score: 0.0
+premise: That little Wilkins is about the greatest fool that even I have ever seen. 
+hyp: I consider Wilkins to be a great fool. 
+
+id: 75728e
+score: 0.0
+premise: A microclimate in Cold River makes this an ideal stopover the souvenir sellers along the main road are an indicator of the number of people that pop in.
+hyp: Cold River has a microclimate that makes it a great stopover.
+
+id: 10208e
+score: 0.0
+premise: you know if you're if you're just sitting on a nice hot lake
+hyp: Imagine sitting by the lake.
+
+id: 78122e
+score: 0.0
+premise: Table 2.3: Methods of Obtaining Description Technique Methodology
+hyp: Ways to obtain decriptions
+
+id: 49697e
+score: 0.0
+premise: To ensure that the dialogue would include the variety of issues and individuals in the legal services community, NLADA and LSC selected participants to reflect both the leadership and emerging leadership of the field.
+hyp: LSC was one of the organizations selecting participants.
+
+id: 124313e
+score: 0.0
+premise: RECOGNIZE - To determine the amount, timing, classification, and other conditions precedent to the acceptance and entry of a transaction.
+hyp: Duly noting the factors inherent in the ledger item.
+
+id: 64227e
+score: 0.0
+premise: Completing the analysis under 49 U.S.C.
+hyp: The analysis is completed.
+
+id: 89111e
+score: 0.0
+premise: The REMSAD model was also used to estimate changes in visibility associated with those changes in particulate matter concentrations and to estimate changes in deposition of sulfur, nitrogen, and mercury.
+hyp: Changes in visibility can be estimated with the REMSAD model.
+
+id: 76831e
+score: 0.0
+premise: The bout is usually over in one or two minutes, sometimes mere seconds, but the intensity of the struggle and the sheer visual drama make for compelling entertainment.
+hyp: The match can end occasionally within seconds.
+
+id: 139029e
+score: 0.0
+premise: Winters are milder and sunnier on the Pacific coast, permitting a welcome double crop of the all-important staple rice.
+hyp: Rice is an important staple.
+
+id: 100547e
+score: 0.0
+premise: Steep, narrow tunnels lead to a tiny funerary chamber furnished by a simple granite sarcophagus.
+hyp: The simple granite sarcophagus is in a small chamber.
+
+id: 95093e
+score: 0.0
+premise: Shouldn't have thought it.
+hyp: Shouldn't have entertained that idea.
+
+id: 144013e
+score: 0.0
+premise: Even when Forrest Sawyer is sitting in, it's still World News Tonight With Peter Jennings . Just because Johnny goes on vacation, The Tonight Show Starring Johnny Carson doesn't suddenly become The Tonight Show With Jay Leno . The task of a guest host is delicate.
+hyp: It doesn't matter who the anchor is, the program is still World News Tonight with Peter Jennings.  
+
+id: 45019e
+score: 0.0
+premise: Most of the beaches with fine sand are to the north of Alicante.
+hyp: The beaches with fine sand are in the north.
+
+id: 74914e
+score: 0.0
+premise: Outlying Neighborhoods
+hyp: Neighborhoods on the outskirts.
+
+id: 35434e
+score: 0.0
+premise: Recognizing the value of training, especially for the people at the top of the organization, the CFO Council's GPRA Implementation Committee has begun an outreach effort directed toward senior managers in the 24 CFO Act agencies.
+hyp: The people at the top of the organization recognize the value of the training.
+
+id: 144473e
+score: 0.0
+premise: i mean one day it was like sixty below zero
+hyp: Once it was around -60 degrees.
+
+id: 128143e
+score: 0.0
+premise: The Save the Social Security
+hyp: Keep social security.
+
+id: 58061e
+score: 0.0
+premise: The Belur temple's silhouette makes for an unfinished look, but it's not certain that towers or domes were ever planned.
+hyp: It is unsure whether domes and towers were in the original plans.
+
+id: 95267e
+score: 0.0
+premise: Pity the poor lawyer.
+hyp: Pity the poor attorney.
+
+id: 49033e
+score: 0.0
+premise: Gandhi  He was the youngest of four.
+hyp: He was the youngest of four siblings.
+
+id: 16735e
+score: 0.0
+premise: Criticizing the Kosovo Critics
+hyp: Making negative comments about the critics of Kosovo.
+
+id: 7716e
+score: 0.0
+premise: I thanked him.
+hyp: Thanks was given. 
+
+id: 15358e
+score: 0.0
+premise: Yes, the one and only.
+hyp: Indeed, one of a kind. 
+
+id: 121672e
+score: 0.0
+premise: The real drama is at Shinto festivals.
+hyp: Shinto festivals are where the real drama is at.
+
+id: 62004e
+score: 0.0
+premise: Exactly as Slate had predicted.
+hyp: Just like Slate anticipated.
+
+id: 61297e
+score: 0.0
+premise: the security program to supplement basic guidance, such as the importance
+hyp: A basic security program that demonstrates importances.
+
+id: 116689e
+score: 0.0
+premise: He said Hilliker will be a good person to lead the organization through such an effort.
+hyp: Hilliker is going to be the leader.
+
+id: 87777e
+score: 0.0
+premise: Cocktails or uh what
+hyp: Cocktails or something else.
+
+id: 87775e
+score: 0.0
+premise: fifty years
+hyp: Five centuries
+
+id: 27846e
+score: 0.0
+premise: Although flat and monotonous sandy desert in the north, it rises in ranges of sandstone peaks in the south creating a strong contrast with the azure blue of the surrounding seas.
+hyp: The area to the north is a boring desert, but to the south lie sandstone peaks overlooking the nearby coasts.
+
+id: 133270e
+score: 0.0
+premise: Dave Hanson, he cried sharply, "by the unfailing power of your name which is all of you, I hold you in my mind and your throat is in my hand--"  The old hands squeezed suddenly, and Hanson felt a vise clamp down around his throat.
+hyp: Dave Hanson was upset with something.
+
+id: 49830e
+score: 0.0
+premise: but exactly
+hyp: Although certainly true.
+
+id: 6765e
+score: 0.0
+premise: The house is hugely enjoyable, with its intricate layout, 18th-century furniture, chinoiserie, children's toys, and and views of the grounds and distant mountains, particularly from the airy turret rooms.
+hyp: The hosue is beautifully maintained.
+
+id: 18359e
+score: 0.0
+premise: Edinburgh Zoo has a penguin parade every day during the summer.
+hyp: Penguins can be seen at the Edinburgh Zoo in summer.
+
+id: 41446e
+score: 0.0
+premise: yes we all enjoy camping and they're you know they're in like R As and scouts and stuff like that you know so they get to go camping in those organizations also
+hyp: Everyone loves camping, especially with the scouts.
+
+id: 21580e
+score: 0.0
+premise: the number of risk assessments performed
+hyp: risk assessments were performed.
+
+id: 81981e
+score: 0.0
+premise: it is i just have to take my hat off to Peter DeNiro he is one of the best actors i've ever seen it's
+hyp: I really admire Peter DeNiro's acting.
+
+id: 40859e
+score: 0.0
+premise: Anyone have a synonym for future?
+hyp: Someone please tell a synonym for future.
+
+id: 124495e
+score: 0.0
+premise: From Beforethewars."
+hyp: From before the wars.
+
+id: 141102e
+score: 0.0
+premise: Devising the question calls for the deft and tactful art of the straight man, for playing George Burns to your Gracie Allen.
+hyp: Straight men are needed for forming the question. 
+
+id: 141408e
+score: 0.0
+premise: A more complex question
+hyp: Query that is more detailed.
+
+id: 121203e
+score: 0.0
+premise: --Yours humbly,
+hyp: Sincerely
+
+id: 40162e
+score: 0.0
+premise: In fact, the evidence thus far is quite depressing in this regard.
+hyp: The evidence is actually pretty depressing. 
+
+id: 136562e
+score: 0.0
+premise: An article says his daughter Tina and wife Barbara will squabble over his $200 million estate.
+hyp: The family is going to fight over his money.
+
+id: 82331e
+score: 0.0
+premise: you do run into you do run into limitations on yours oh wow
+hyp: You have limits.
+
+id: 38352e
+score: 0.0
+premise: Surely she was at least entitled to demand an explanation.
+hyp: She was definitely allowed to want an explanation. 
+
+id: 47327e
+score: 0.0
+premise: Bad idea!
+hyp: Terrible idea!
+
+id: 90420e
+score: 0.0
+premise: With the exception of the lowest volume post (Poste Italiane) the model's predicted percentages are close to the actual percentages for delivery.
+hyp: The model predicts percentages that are quite accurate.
+
+id: 119268e
+score: 0.0
+premise: Hiking, or trekking, as it is most often called here, is a marvellous way of getting away from the often madding crowd in India, and you will find it is well organized in the old hill-stations.
+hyp: You can go trekking to see hill stations.
+
+id: 93132e
+score: 0.0
+premise: In fact, the sole purpose of his piece was to continue the media assault on Tripp as some kind of back-stabbing dragon lady whom we should all view with disgust and loathing.
+hyp: Tripp was considered by some to be treacherous and beneath contempt.
+
+id: 30112e
+score: 0.0
+premise: Bush plays up his born-again faith to the religious right.
+hyp: Bush caters to the religious right with his faith.
+
+id: 74749e
+score: 0.0
+premise: uh and i i think that's probably the fun of watching minor league baseball and the other thing is watching guys on the other end uh guys that i had seen play for both the Red Sox and Pittsburgh
+hyp: It's fun seeing players play for opposite teams.
+
+id: 145675e
+score: 0.0
+premise: The Savoy  also has a reputation for lively nightlife in its bar.
+hyp: The Savoy bar has is well-known for its active nightlife.
+
+id: 81752e
+score: 0.0
+premise: Horrified by the rise of casual office wear, the garment industry is launching a PR campaign to popularize formal attire, says an article . All kinds of designers are getting in on the  Sean Puffy Combs' fall collection is full of dressier sportswear.
+hyp: The garment industry is trying to make formal attire more popular.
+
+id: 120215e
+score: 0.0
+premise: Then follow-up interviews would have to do less alcohol intake assessment, and that would mean less intervention effect on the control group.
+hyp: There would be some follow-up assessments.
+
+id: 127277e
+score: 0.0
+premise:  Broad agreement by the civil justice community, including the courts and IOLTA programs, on the values, purposes, and objectives of the State Planning Initiative.
+hyp: The initiative's values, purposes and objectives were agreed upon broadly.
+
+id: 120804e
+score: 0.0
+premise:  The sun had struck near the horizon, throwing up huge masses of material.
+hyp: The sun had landed close to the horizon.
+
+id: 120747e
+score: 0.0
+premise: I was aware of other servants huddled together in the background, all eyes and ears. 
+hyp: The other servants were paying rapt attention.
+
+id: 38675e
+score: 0.0
+premise: He is The Manchurian Candidate and a horny hick.
+hyp: The Manchurian Candidate is horny,
+
+id: 140858e
+score: 0.0
+premise: They especially take him to task for blaming Plath's suicide on fate and astrology.
+hyp: He blamed plath's suicide on fate and astrology. 
+
+id: 104173e
+score: 0.0
+premise: And we are not sure of that even."
+hyp: We are unsure of that.
+
+id: 40350e
+score: 0.0
+premise: Is academic literary criticism headed down a blind alley?
+hyp: Will the analysis of literature abruptly end?
+
+id: 13506e
+score: 0.0
+premise: But the thought of traveling without packing, except maybe for a tiny computer and a tiny camera, has a powerful charm of its own.
+hyp: The idea of packing light to travel is charming.
+
+id: 82507e
+score: 0.0
+premise: Alternatively, choose from small Land Rover type vehicles, scooters, and mopeds.
+hyp: Scooters and mopeds can be selected.
+
+id: 56033e
+score: 0.0
+premise: there, choose Washington Post (under News Agency).
+hyp: Pick the Washington Post
+
+id: 70467e
+score: 0.0
+premise: Yes, often. 
+hyp: Yes, a lot of the time.
+
+id: 53638e
+score: 0.0
+premise: Yes a bargain.
+hyp: That's a bargain, yes.
+
+id: 26524e
+score: 0.0
+premise: Prepared for Office of Policy, Planning and Evaluation, US Environmental Protection Agency.
+hyp: The Prepared for Office of Policy, Planning and Evaluation is part of the EPA.
+
+id: 122456e
+score: 0.0
+premise: It's possible he's guilty.
+hyp: It cannot be said that innocence is an absolute certainty.
+
+id: 135736e
+score: 0.0
+premise: The Project adopted six guiding principles.
+hyp: The project adopted principles.
+
+id: 122555e
+score: 0.0
+premise: Within another 5 km (3 miles) you arrive at Sella village, dwarfed beneath an extraordinary plateau.
+hyp: Sella village is located beneath a large plateau.
+
+id: 67126e
+score: 0.0
+premise: A Diet Coke, if you will, please, Kemp chirped.
+hyp: Kemp politely asked for a diet coke.
+
+id: 83511e
+score: 0.0
+premise: things that we have here and develop some pride in them if it was handled that way i i it would take quite a few people i think it might build jobs for people you know that were administrating and running and training and coordinating and all that so maybe that part of it would be helpful too
+hyp: Administrative tasks are one of the jobs that'd be available.
+
+id: 77727e
+score: 0.0
+premise: Come on, Julius.
+hyp: Julius is being encouraged.
+
+id: 30660e
+score: 0.0
+premise: well how nice that's great
+hyp: That's good to hear. 
+
+id: 109673e
+score: 0.0
+premise: As a dominant buyer, Office Behemoth could command concessions from Paper Clip Inc.
+hyp: Office Behemoth is a dominant buyer.
+
+id: 13268e
+score: 0.0
+premise: The northerner fell to the ground.
+hyp: The northerner fell down.
+
+id: 61220e
+score: 0.0
+premise: Champagne-Ardennes
+hyp: Champagne-Ardennes
+
+id: 37363e
+score: 0.0
+premise: Although the bed dates from the 1680s, it has never been slept in by royalty.
+hyp: No one of royal blood had ever slept on the bed.
+
+id: 135205e
+score: 0.0
+premise: Transfer paper
+hyp: The transfer paper shows the transfer.
+
+id: 79426e
+score: 0.0
+premise: The Integrated Planning Model (IPM) was used to derive all future projections of electricity generation source emissions.
+hyp: The Integrated Planning Model helped to make electricity generation emmission projections
+
+id: 91281e
+score: 0.0
+premise: no no it's terrible
+hyp: This is awful.
+
+id: 67375e
+score: 0.0
+premise: it's almost a luxury
+hyp: It is high-class.
+
+id: 89035e
+score: 0.0
+premise: Do you have a safe here? Topham's eyebrows climbed.
+hyp: Topham, surprised, asked "Do you have a safe in this place?"
+
+id: 1234e
+score: 0.0
+premise: The data used for the analysis are described in the Appendix.
+hyp: Data utilized in the analysis is explained in the Appendix.
+
+id: 126012e
+score: 0.0
+premise: followed by payment authorization.
+hyp: Payment authorisation came next.
+
+id: 81273e
+score: 0.0
+premise: Below Jesus' feet is a Latin in?­scription that suggests that the tympanum was the work of one man, Gislebertus (Gilbert).
+hyp: The tympanum may have been created by one man called Gislebertus. 
+
+id: 97349e
+score: 0.0
+premise: Shenzhen's main tourist attractions are its enormous theme parks.
+hyp: Most tourists visit Shenzhen for its theme parks.
+
+id: 119600e
+score: 0.0
+premise: I get to keep my place, Bell said, adding that without counsel, he wouldn't have known what to say in court and would have lost the case.
+hyp: Bell said counsel helped him in court.
+
+id: 130730e
+score: 0.0
+premise: Hired car. 
+hyp: Rented car.
+
+id: 125093e
+score: 0.0
+premise: and most the problems with kids in school carrying guns and and knives and everything i mean good grief what's with
+hyp: I don't understand why kids would have weapons in school.
+
+id: 65519e
+score: 0.0
+premise: The nation has recently considered leaning toward the mainstream right to expand its influence.
+hyp: The nation has been thinking about selling out.
+
+id: 138751e
+score: 0.0
+premise: like i i think well um in the morals and values of like my generation for the most for most people are totally different from the morals and valleys um values of like per se your generation but i think as we get older it gets to your you know what i mean i think the kids now are are i would say louder now until after they reach like twenty five and then i think they really have a strong decline and start to settle down and realize things
+hyp: The values of yours and my generation are different.
+
+id: 51403e
+score: 0.0
+premise: The key point is that earnings cannot be simultaneously paid out in dividends and invested in future profits.
+hyp: It is not allowed for the funds to be used for both today and for subsequent dates.
+
+id: 14232e
+score: 0.0
+premise: In the publicity leading up to the release of Showgirls , Eszterhas gave interview after interview about the importance of the movie, of its deep moral message, its serious purpose.
+hyp: The Showgirls received much publicity.
+
+id: 96326e
+score: 0.0
+premise: okay all right bye-bye
+hyp: Bye, talk to you later.
+
+id: 122642e
+score: 0.0
+premise: yeah so but i think we're getting better at it i think there's quite a bit more we could do
+hyp: We have been improving at it.
+
+id: 61905e
+score: 0.0
+premise: but i don't know much about camping in Texas
+hyp: I have little to no knowledge on the outdoors excursions known as camping in the state of Texas.
+
+id: 120098e
+score: 0.0
+premise: The Spanish crown duly passed to the Hapsburgs, and Spain remained in their hands until the feeble-minded Carlos II died in 1700, leaving no heir.
+hyp: Carlos II was the last Hapsburg ruler of Spain.
+
+id: 110576e
+score: 0.0
+premise: scientific (something about string theory and tangles?)
+hyp: It is related string theory and tangles.
+
+id: 48257e
+score: 0.0
+premise: The house was built in 1865 by a member of the Man clan who achieved the rank of tai fu (mandarin) by doing well in the Imperial Exam?­inations.
+hyp: A member of the Man clan built the house in 1865. 
+
+id: 40329e
+score: 0.0
+premise: The resort has a large park featuring water slides and a children's play area.
+hyp: The resort is home to many forms of entertainment.
+
+id: 17164e
+score: 0.0
+premise: The term noncompliance comprises illegal acts (violations of laws and regulations) and violations of provisions of contracts or grant agreements.
+hyp: The term noncompliance comprises illegal acts.
+
+id: 42226e
+score: 0.0
+premise: It's true that coverage of Clinton on the campaign trail has been somewhat softer than the coverage of Dole, as even other Times reporters acknowledge.
+hyp: Some of the shoreline homes have hot tubs and covered porches. 
+
+id: 38712e
+score: 0.0
+premise: President Clinton choppers in for commiseration and photo ops.
+hyp: President Clinton is in photos.
+
+id: 76385e
+score: 0.0
+premise: "You ain't makin' out no bill of sale on her already, are you?" Callie was shocked.
+hyp: Callie was surprised to hear that a transaction was underway.
+
+id: 47137e
+score: 0.0
+premise: In the interior, drive along the winding mountain road to Evisa and the cool, quiet Forest of A?¯tone.
+hyp: On the inside drive on the winding mountain path to Evisa.
+
+id: 13277e
+score: 0.0
+premise: The newly convened group is supposed to deliver its findings by October 2001, when the current ban on e-commerce taxes expires.
+hyp: The findings of the new group are supposed to be reported in 2001.
+
+id: 2953e
+score: 0.0
+premise: right some of the stations around here will take it
+hyp: Some stations in the area will accept it.
+
+id: 68744e
+score: 0.0
+premise: Ten years, sir.
+hyp: About a decade, sir.
+
+id: 114624e
+score: 0.0
+premise: You're awfully good, Julius.
+hyp: "You're fantastic, Julius."
+
+id: 98427e
+score: 0.0
+premise: The Comparability of U.S.
+hyp: Comparing the United States.
+
+id: 37867e
+score: 0.0
+premise: and that's just um-hum
+hyp: And that's just
+
+id: 51939e
+score: 0.0
+premise: The husband-and-wife team of Alfred W. and Ruth G. Blumrosen then looked at how many women or minority workers a company employed in different job categories compared with how many were employed at other companies in the same industry in the same geographic area.
+hyp: Alfred W. and Ruth G. Blumrosen were husband-and-wife.
+
+id: 56127e
+score: 0.0
+premise: The inquiry was turned over to the Inquiry Board and the Board of Inquiries.
+hyp: The injury was given to the Board of Inquiries.
+
+id: 124529e
+score: 0.0
+premise: Dogging 'Rita'  
+hyp: Rita got dogged.
+
+id: 74785e
+score: 0.0
+premise: Let us reconstruct. 
+hyp: We shall rebuild.
+
+id: 6863e
+score: 0.0
+premise: The President's national homeland security strategy does provide for a proposed definition of homeland security, which should help the government to more effectively administer, fund and coordinate activities both inside and outside a new department and to ensure that all parties are focused on the same goals and objectives, results and outcomes.
+hyp: Homeland security is defined by the national homeland security strategy.
+
+id: 6796e
+score: 0.0
+premise: The villages have been lovingly restored.
+hyp: Endearing repair was applied to the village.
+
+id: 88686e
+score: 0.0
+premise: Whether castigating them on the silver screen, between the lines of pulpy, true-crime narratives, or in the jokes told around the proverbial water cooler, attorneys have been on the receiving end of many a hackneyed punch line.
+hyp: Many jokes are told about attorneys.
+
+id: 97683e
+score: 0.0
+premise: It also entails being open to reading and respecting ideas one disagrees with.
+hyp: It's required to be open-minded, respectful and engaged in reading.
+
+id: 95383e
+score: 0.0
+premise: The dialogue moves ahead--there are great gobs of exposition--but the images continually double  to Stamp and Lesley Ann Warren, as his daughter's acting teacher, simply gazing at each other; or to Stamp sitting on a plane, remembering his daughter as a girl on the beach, the lens of his home movie camera creating an eerily bright--almost supernatural--spot that dances over her face.
+hyp: The dialogue contains a large amount of exposition.
+
+id: 91688e
+score: 0.0
+premise: Overrating Bob Dylan's unpublished fragments probably won't do any damage to his real achievement.
+hyp: Bob Dylan had unfinished work that was never published.
+
+id: 106326e
+score: 0.0
+premise: Challenges to Capital Flows.
+hyp: Capital flows are subject to challenges.
+
+id: 116129e
+score: 0.0
+premise: I tried.
+hyp: I did my best.
+
+id: 1654e
+score: 0.0
+premise: I had to confess myself mistaken. 
+hyp: I had discovered that I was wrong.
+
+id: 107230e
+score: 0.0
+premise: Currently, power plants are required to reduce emissions of nitrogen oxides (NOX) and sulfur dioxide (SO2).
+hyp: Reducing emissions of sulfur dioxide is required of power plants.
+
+id: 57644e
+score: 0.0
+premise: Bauerstein in?" She stared at me. 
+hyp: "Bauerstein here yet?" she asked whilst staring.
+
+id: 95092e
+score: 0.0
+premise: I'm right, then.
+hyp: I am correct then.
+
+id: 59858e
+score: 0.0
+premise: yeah huh well that almighty dollar
+hyp: Well, that omnipotent dollar
+
+id: 7210e
+score: 0.0
+premise: Network externalities are in.
+hyp: Unseen benefits to the network are popular.
+
+id: 39335e
+score: 0.0
+premise: I'm afraid not, sir.
+hyp: I don't think so.
+
+id: 58644e
+score: 0.0
+premise: She quieted, trembling.
+hyp: She clammed up, and got visibly nervous.
+
+id: 95371e
+score: 0.0
+premise: I left something to be analysed.
+hyp: Something still requires analysis.
+
+id: 63981e
+score: 0.0
+premise: You swear it won't hurt me? she temporized.
+hyp: She wanted the other person to confirm that it wouldn't hurt.
+
+id: 25952e
+score: 0.0
+premise: In Canada, under the headline Highway to NAFTA?
+hyp: Outside of the United States in the direction of NAFTA?
+
+id: 38823e
+score: 0.0
+premise: She favored alternative punishments, longed to help troubled kids, worried about Draconian anti-immigration policy, and disliked the death penalty, mandatory minimum sentences, and the crack/powder cocaine sentencing disparity.
+hyp: Troubled kids benefit from alternative punishments.
+
+id: 45539e
+score: 0.0
+premise: Bailey received the award for his three years of volunteer work at Indiana Pro Bono Commission.
+hyp: Bailey contributed three years of volunteer work to the Indiana Pro Bono Commission.
+
+id: 139755e
+score: 0.0
+premise: Here is what some prominent national reporters wrote on   
+hyp: Some prominent national reporters wrote about a topic.
+
+id: 67430e
+score: 0.0
+premise: Meat stalls can be found around the outside, as well as several wicker and handicraft shops.
+hyp: There are meat stalls and handicraft shops outside.
+
+id: 90292e
+score: 0.0
+premise: This section also establishes detailed default procedures for auctions.
+hyp: The section sets procedures for auctions.
+
+id: 121931e
+score: 0.0
+premise: Today's Papers is still partial to Silicone Valley.
+hyp: Today's Papers is still a huge fan of Silicone Valley.
+
+id: 93809e
+score: 0.0
+premise: surely i've enjoyed it bye bye
+hyp: I've had a good time.
+
+id: 66020e
+score: 0.0
+premise: As noted above, representation of H-2A workers is limited to specific subject matters arising under the H-2A employment contract.
+hyp: Specific subject matters are the only thing that can lead to representation of H-2A workers.
+
+id: 375e
+score: 0.0
+premise: (Emphasis added.)
+hyp: The emphasis was added by the editor.
+
+id: 15794e
+score: 0.0
+premise: It uproots and homogenizes as it enriches--like a Ronco appliance, as Friedman might say.
+hyp: Friedman references Ronco appliances.
+
+id: 44761e
+score: 0.0
+premise: It was two nights ago when we killed the slave lord," San'doro said.
+hyp: The slave lord died.
+
+id: 100182e
+score: 0.0
+premise: SELLING EXPENSE (COST) -Expenses incurred in selling or marketing, e.g., salaries, commissions, and promotion expenses.
+hyp: It is an expense related to sales of items or the marketing of said items.
+
+id: 145900e
+score: 0.0
+premise: 'For religious reasons.'
+hyp: Because of what my religion says.
+
+id: 44640e
+score: 0.0
+premise: At last that worthy made his appearance.
+hyp: He appeared.
+
+id: 114233e
+score: 0.0
+premise: Sounds appealing.
+hyp: It sounds good.
+
+id: 91942e
+score: 0.0
+premise: As big as it was, it couldn't hurt the Journal . How would the Podunk Banner have fared against a similar threat from the area Chevrolet dealer?
+hyp: It couldn't hurt the Journal no matter how big it was.
+
+id: 65501e
+score: 0.0
+premise: that's interesting um-hum okay hey thanks so much for the conversation
+hyp: Thanks for talking.
+
+id: 3759e
+score: 0.0
+premise: Israel and the Israelis
+hyp: Israel and the Israelis
+
+id: 89168e
+score: 0.0
+premise: And the actual plan?
+hyp: What about the plan?
+
+id: 75064e
+score: 0.0
+premise: yeah especially in Texas period
+hyp: especially within Texas
+
+id: 120869e
+score: 0.0
+premise: 5 points--number of Penguin classics sold
+hyp: There have been a large amount of Penguin classics sold.
+
+id: 58820e
+score: 0.0
+premise: In October of 1907, as the stock market was melting down, J.P.
+hyp: The stock market began to crash around October 1907.
+
+id: 101139e
+score: 0.0
+premise: The Industrialist looked at his guest.
+hyp: The Industrialist looked upon his guest.
+
+id: 136876e
+score: 0.0
+premise: No, he was simply a way of escape from the insufferable monotony of my life." 130 I said nothing, and after a moment, she went on: "Don't misunderstand me. 
+hyp: The woman pointed out that her life was monotonous.
+
+id: 119138e
+score: 0.0
+premise: This employment requires precision of the fingers. 
+hyp: This job requires swift fingers. 
+
+id: 96837e
+score: 0.0
+premise: Mr. Carter's warnings passed unheeded.
+hyp: Mr. Carter had issued a warning, but it was not listened to.
+
+id: 144830e
+score: 0.0
+premise: That fragmented system without oversight had its  deviance (not all doctors provided good care) and cost (the doctors drove up the bills).
+hyp: Doctors drove up bills and not all of the doctors gave good care.
+
+id: 136415e
+score: 0.0
+premise: In spring, the Osaka International Festival of drama and music takes place both at the theater and in the Festival Hall on Nakanoshima Island.
+hyp:  The Festival Hall and theater on Nakanoshima Island, are home to the Osaka International Festival of drama and music in the spring.
+
+id: 96726e
+score: 0.0
+premise: The revise phase may lead to another test phase, if information from the second round of data collection was insufficient to rule out alternatives, or if, during revision, new interpretations emerged.
+hyp: If information from the second round is insufficient, there may be another test phase.
+
+id: 20033e
+score: 0.0
+premise: Well, he showed them.
+hyp: He proved them wrong.
+
+id: 120631e
+score: 0.0
+premise: Today it is a rather scruffy, workaday town, studiously ignoring its glorious past.
+hyp: Today is mostly scruffy despite its glorious past.
+
+id: 114919e
+score: 0.0
+premise: Seventy years of carving had barely scratched one massive trunk-like toe of the Old One.
+hyp: The Old One had been carved for many years.
+
+id: 1479e
+score: 0.0
+premise: Of the Italian paintings, Bellini's L'Ivresse de No?? (The Drunkenness of Noah) and Gior?­dano's Philosophe Cynique are outstanding.
+hyp: Bellini's L'Ivresse is an Italian paintings.
+
+id: 75303e
+score: 0.0
+premise: 'Suicide isn't in your nature, Ben,' Lincoln spoke up.
+hyp: Lincoln said Ben wouldn't kill himself.
+
+id: 63949e
+score: 0.0
+premise: 9. INVERSE PRICE CAPS
+hyp: 9 Inward caps on price. 
+
+id: 57332e
+score: 0.0
+premise: The following morning the indefatigable Albert, having cemented an alliance with the greengrocer's boy, took the latter's place and ingratiated himself with the cook at Malthouse.
+hyp: Albert got an alliance with the greengrocer's boy.
+
+id: 47712e
+score: 0.0
+premise: What? We all like to impress people.
+hyp: Everyone likes to look good.
+
+id: 87821e
+score: 0.0
+premise: Oh yes, my friends, a letter.
+hyp: Oh yes, a letter.
+
+id: 104274e
+score: 0.0
+premise: The court denied a preliminary injunction, finding no probability of success on the merits.
+hyp: The court did not think that an injunction was justified.
+
+id: 94663e
+score: 0.0
+premise: Be sure to keep a log of your testing for inclusion in the engagement workpapers.
+hyp: A testing log is helpful.
+
+id: 36803e
+score: 0.0
+premise: Sampling frame generated from the 1980 Census 100-percent detail file.
+hyp: The data was collected from the census done in 1980.
+
+id: 20350e
+score: 0.0
+premise: what's neat is seeing history happen you know
+hyp: Seeing history is cool.
+
+id: 3299e
+score: 0.0
+premise: The grounds, like those of any other private house after nightfall, seemed untenanted.
+hyp: The grounds were empty.
+
+id: 1793e
+score: 0.0
+premise: The winner is the master of the cleverest ploys and strategems [ sic ]. Moreover, Chinese leaders are quick to find fault in others and try always to appear bold and fearless.
+hyp: The winner has the smartest tricks.
+
+id: 52425e
+score: 0.0
+premise: The sky is a solid sphere that surrounds Earth.
+hyp: The earth is surrounded by the sky.
+
+id: 28806e
+score: 0.0
+premise: Bush has milked this protective anguish for months.
+hyp: This protective anguish was milked by Bush for months.
+
+id: 12259e
+score: 0.0
+premise: Presentation to the Clean Air Science Advisory Committee.
+hyp: Presenting to the clean air science advisory committee 
+
+id: 139856e
+score: 0.0
+premise: They declined.
+hyp: They did not accept.
+
+id: 82677e
+score: 0.0
+premise: Adrin joined them as they descended and headed south.
+hyp: Adrin went with them.
+
+id: 38115e
+score: 0.0
+premise: Overwhelmingly, I had the sense that my Prepare To Win instructors had no idea how cynical they sound.
+hyp: Prepare To Win instructors can sound cynical.
+
+id: 108427e
+score: 0.0
+premise: Los Angeles has many different sides, which means you're in for the ideal vacation whether you're a tranquil beach-loving type, a city slicker, a born shopper, a celebrity chaser, or simply a pleasure-seeker who goes with the flow.
+hyp: People who love shopping might enjoy Los Angeles.
+
+id: 119973e
+score: 0.0
+premise: Here, the tradition of scholastic inquiry has often evolved into a spirit of protest and outright revolt before subsiding into a lifelong skepticism.
+hyp: The protests seem to come from scholastic inquiry.
+
+id: 103738e
+score: 0.0
+premise: As Herman Melville once famously asked in Moby-Dick , why don't whales collapse under the pressure of all the water they swim under?
+hyp: Melville wrote Moby-Dick.
+
+id: 43437e
+score: 0.0
+premise: There had come the sound of the bell below. 
+hyp: Below a bell sounded from somewhere.
+
+id: 91567e
+score: 0.0
+premise: This was once the scene of a famous misdevelopment plan, when a 600-room luxury hotel had to be demolished just as it was ready to open for business, since it had mistakenly been built directly on the flight path to Ibiza airport.
+hyp: A hotel was built on the flight path to the airport.
+
+id: 45084e
+score: 0.0
+premise: Either way, it's a plan that makes sense.
+hyp: That plan makes sense.
+
+id: 48754e
+score: 0.0
+premise: The English were victorious in the Picardy fields of Cr??c y (1346) and Azincourt (Agincourt, 1415).
+hyp: The English were successful in 1346 and in 1415.
+
+id: 90707e
+score: 0.0
+premise: The generation expenditures vary in each of the scenarios change for at least three  (1) the size of the allowance bank made possible by early reductions driven, in part, by program spending prior to the introduction of the caps; (2) the varying levels of demand for electricity over time, resulting in changes in the overall mix of generation resources; and, (3) the gradual reduction in the banked allowances available for withdrawal necessitating additional actions to reduce emissions.
+hyp: Electricity demand changes over time.
+
+id: 12660e
+score: 0.0
+premise: He didn't see me.
+hyp: The man did not know I was there. 
+
+id: 74935e
+score: 0.0
+premise: Who wrote that piece of shit, anyway?
+hyp: The essay was a piece of shit.
+
+id: 131940e
+score: 0.0
+premise: Demi Moore and and uh and the guy who did did the
+hyp: Demi Moore has something to do with it.
+
+id: 74728e
+score: 0.0
+premise: Walking through a bad neighbourhood at a bad time of night, I lost myself in daydreams of Presidents past.
+hyp: I was walking through a bad neighbourhood at a bad time of night.
+
+id: 112970e
+score: 0.0
+premise: 'All of you, back off!' White bellowed.
+hyp: White yelled for them all to back off. 
+
+id: 96110e
+score: 0.0
+premise: Features a device called a gristle gun.
+hyp: A gristle gun is featured.
+
+id: 123450e
+score: 0.0
+premise: In establishing the effective date, INS and EOIR state in the preamble to the interim rule that they find good cause to make the rule effective April 1, 1997, in order to meet the statutory deadline imposed by the IIRIRA.
+hyp: The effective date was set with the statutory deadline in mind.
+
+id: 132235e
+score: 0.0
+premise: Referencing is a process in which statements of facts, figures, and dates are traced back to the supporting working papers by an experienced auditor who is independent of the audit.
+hyp: Referencing is tracing back the fact to the original authors.
+
+id: 108420e
+score: 0.0
+premise: Adding personnel late in a project can actually cause further slippage.
+hyp: Further slippage can be caused by adding personnel late in a project.
+
+id: 82305e
+score: 0.0
+premise: yes uh-huh that uh lots lots of new uh newsmen were created during that so it will be interesting to see what happens
+hyp: This event provided an opportunity for new people in the media.
+
+id: 30708e
+score: 0.0
+premise: Three are on trial for murder, and a vegan Straight Edger just finished probation for firebombing a McDonald's.
+hyp: Three people are on trial for murder.
+
+id: 15617e
+score: 0.0
+premise: Irrational Exuberance
+hyp: The person was irrationally enthusiastic.
+
+id: 30175e
+score: 0.0
+premise: Across the board, in fact, investors are willing to overlook short-term losses due to strikes if they feel that a company's hard line will pay off in lower costs down the road.
+hyp: investors are willing to overlook short term losses.
+
+id: 55977e
+score: 0.0
+premise:  She never comes
+hyp: She never shows up.
+
+id: 73456e
+score: 0.0
+premise: yeah well Honda does too  that's why i was really
+hyp: I'm pretty sure Honda does that too.
+
+id: 116210e
+score: 0.0
+premise: We don't know.
+hyp: We can't be sure.
+
+id: 57152e
+score: 0.0
+premise: The Clintonites had a worthier foe in mind.
+hyp: The group was thinking of someone else.
+
+id: 32843e
+score: 0.0
+premise: especially around bonus time
+hyp: Especially around the time of the bonus.
+
+id: 123533e
+score: 0.0
+premise: You said Rennie sighed.
+hyp: You mentioned that Rennie let out a breath of air.
+
+id: 51146e
+score: 0.0
+premise: Chief among  Will China preserve the rule of law and free speech, which are essential for business prosperity?
+hyp: There is a question among whether China will preserve the rule of law and free speech.
+
+id: 12020e
+score: 0.0
+premise: Shiloh's not for sale, Coronel, Drew replied.
+hyp: Shiloh is not up to be sold, Coronel. 
+
+id: 139691e
+score: 0.0
+premise: Some writers hint that the only reason Ta Mok bothered with the trial and the life sentence is to burnish the Khmer Rouge's bloody image.
+hyp: Ta Mok was given a life sentence.

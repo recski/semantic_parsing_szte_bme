@@ -1,0 +1,945 @@
+
+id: 50563n
+score: 0.888888888889
+premise: yeah i tell you what though if you go price some of those tennis shoes i can see why now you know they're getting up in the hundred dollar range
+hyp: The tennis shoes have a range of prices.
+
+id: 32819n
+score: 0.717391304348
+premise: It's not that the questions they asked weren't interesting or legitimate (though most did fall under the category of already asked and answered).
+hyp: All of the questions were interesting according to a focus group consulted on the subject.
+
+id: 87912n
+score: 0.75
+premise: yeah well you're a student right
+hyp: Well you're a mechanics student right?
+
+id: 77527n
+score: 0.666666666667
+premise: and it is nice talking to you all righty
+hyp: I talk to you every day.
+
+id: 22132n
+score: 0.710526315789
+premise: Analyzing Postal Service accounts for depreciation, fuel, and maintenance for city delivery carriers, we have estimated the average city delivery vehicle cost per route.
+hyp: Driving cost estimates can be averaged will sufficient data.
+
+id: 78697n
+score: 0.666666666667
+premise: At the heart of the sanctuary, a small granite shrine once held the sacred barque of Horus himself.
+hyp: Horus is a god.
+
+id: 14868n
+score: 0.769230769231
+premise: and so i started watching it and all of a sudden stay tuned next week and i went what
+hyp: I wouldn't have started watching it if I'd known.
+
+id: 102911n
+score: 0.826446280992
+premise: The company once assembled, Poirot rose from his seat with the air of a popular lecturer, and bowed politely to his audience. 
+hyp: Poirot rose from his seat, bowed and started addressing the audience.
+
+id: 117164n
+score: 0.627450980392
+premise: um but i think in time come you're going to see that happening you're going to see um where the high risk people pay a premium but they have to find a way to prove it
+hyp: It would take some time before high-risk people start paying a premium.
+
+id: 66331n
+score: 0.647058823529
+premise: oh no well i don't find a lot of time to watch TV and a lot of the time i find it during the day when i'm rocking my little girl to sleep  so i watch a lot of reruns old shows
+hyp: I enjoy watching the old reruns because I find them calming.
+
+id: 33519n
+score: 0.791666666667
+premise: In a culture where Xena and Hercules have hit TV shows, it's a lot more fun imagining that you are a valiant warrior doing business-as-battle than it is to admit that you're a pudgy functionary whose most daring deed is to draft a boldly worded memo.
+hyp: Xena and Hercules both have hit shows on CBS.
+
+id: 119476n
+score: 0.916666666667
+premise: It covers most but not all close Senate and gubernatorial races.)
+hyp: The radio station covers most close gubernatorial races
+
+id: 114411n
+score: 0.9
+premise: In addition to the effects on household saving choices, individual accounts may also affect the relationship and interactions between Social Security and private pensions.
+hyp: Individual accounts would reduce demand for private pensions.
+
+id: 46033n
+score: 0.739130434783
+premise: Participants generally agreed that improvements in corporate governance will bring about improvements in auditing.
+hyp: The participants only agreed on a few subjects.
+
+id: 95566n
+score: 0.676470588235
+premise: no not near as much as i'd like to i mean i've i tend to stay pretty busy at my job and uh
+hyp: If my job wasn't so busy, I do that a lot more.
+
+id: 126269n
+score: 0.7
+premise: we drive sixty five oh yes well
+hyp: The vehicle was a hybrid in which we drove 65.
+
+id: 5487n
+score: 0.625
+premise: Nor was a common start or end point identified for design review as an element of the facility acquisition process.
+hyp: A common start or end point was not identified in the facility's construction.
+
+id: 3272n
+score: 0.909090909091
+premise: The others followed.
+hyp: The others had followed Jon.
+
+id: 52708n
+score: 0.63829787234
+premise: The magazine's humor often depended on racist and sexist stereotypes, such as wide-grinned, watermelon-eating blacks.
+hyp: The magazine depended on this type of humor.
+
+id: 63075n
+score: 0.769230769231
+premise: In the new version, Reich sticks to the transcript and accurately quotes Saxton droning on at length about studies and Godfather's Pizza.
+hyp: Reich's version is accurate.
+
+id: 55825n
+score: 0.851063829787
+premise: It assumes for cost-of-service areas (where most of power sales are likely to occur) that allowance allocations will not alter pricing of electricity.
+hyp: Allowance allocations will definitely not alter the pricing of electricity in cost-of-service areas.
+
+id: 83616n
+score: 0.777777777778
+premise: Instead, Intel makes real things.
+hyp: Intel makes actual things instead, accoding to the news.
+
+id: 117949n
+score: 0.611940298507
+premise: Before 1980, federal law prohibited interest to be generated on checking accounts maintained by federally insured banks.
+hyp: Federal Law prohibited  interest to be generated on checking accounts, but now it's common practice.
+
+id: 85148n
+score: 0.714285714286
+premise: When the American diplomat who supervises the international peace monitors in Kosovo accused Serb police of the massacre, the Yugoslav (i.e.
+hyp: The American diplomat is extremely happy with his job and accomplishments.
+
+id: 141081n
+score: 0.736842105263
+premise: Shenzhen was China's first Special Economic Zone.
+hyp: Within China was Shenzhen, and it was China's first and only Special Economic Zone.
+
+id: 10036n
+score: 0.8
+premise: oh the potato they were they're delicious but they you don't get seem to get that much for the space they they do
+hyp: Potatoes need a lot of space to grow.
+
+id: 42380n
+score: 0.625
+premise: part of its infrastructure to help managers run the entity and achieve their aims on an ongoing basis.
+hyp: The new infrastructure will create more opportunities for the managers.
+
+id: 63092n
+score: 0.77358490566
+premise: Moreover, CBO's inflated baseline assumes that discretionary spending-which is controlled through annual appropriations-will grow after 2002 at the rate of inflation.
+hyp: Moreover, CBO's inflated baseline assumes that discretionary spending-which is controlled through annual appropriations-will grow after 2002 at the rate of inflation, perhaps even more, depending on how inflated the baseline becomes thereafter.
+
+id: 22860n
+score: 0.709677419355
+premise: oh so what they're doing they're discounting for cash is the way they're because i think it is illegal to add a surcharge so
+hyp: Adding a surcharge was abused so it is now illegal.
+
+id: 40286n
+score: 0.666666666667
+premise: We saw the murder in their eyes and the blood on their hands.
+hyp: We saw blood on their demon hands and murder in their evil eyes.
+
+id: 136765n
+score: 0.611111111111
+premise: (Actually, you could have as many judges as you wanted, as long as you ignored all but one of them.)
+hyp: You can have a lot of judges for your crime.
+
+id: 122784n
+score: 0.833333333333
+premise: I saw a path at the side of the road.
+hyp: There was a path leading away from the road.
+
+id: 9333n
+score: 0.823529411765
+premise: you ever serve that yourself when you have company
+hyp: Did you ever serve that yourself when you had a company, it's awful.
+
+id: 106779n
+score: 0.816326530612
+premise: oh yeah before they started all this stuff
+hyp: They were doing something illegal before they started all this stuff.
+
+id: 42104n
+score: 0.897959183673
+premise: RESEARCH AND DEVELOPMENT ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September
+hyp:  RESEARCH AND DEVELOPMENT ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September every year since 1912.
+
+id: 68412n
+score: 1.0
+premise: A good sword, high ground, or exceptional skill may push the odds but never by much.
+hyp: A good sword gives people the slight edge if it is made of steel.
+
+id: 59783n
+score: 0.827586206897
+premise: Suggestions on how to improve the current process were implemented and, as a result, LSC will be sending feedback letters to applicants that filed grant proposals for 2003 funding to begin a dialogue about the applicant's delivery system based on the grant application.
+hyp: There were over five hundred suggestions on how to improve the current process.
+
+id: 129651n
+score: 0.692307692308
+premise: but a lot of women are knowledge as knowledge about football as i am
+hyp: I have a lot of football knowledge.
+
+id: 122552n
+score: 0.714285714286
+premise: and i had the book and i hadn't read it in so long so i read it the other day to see if i could so i can watch the movie
+hyp: I enjoyed reading the book more than watching the movie.
+
+id: 9985n
+score: 0.615384615385
+premise: you know it's it's pretty nice and friendly out there and you can't find that in all sports
+hyp: It's pretty nice and friendly out there in the soccer field
+
+id: 27378n
+score: 0.692307692308
+premise: Everywhere silence, and shuttered windows.
+hyp: There was a storm coming so the windows were shuttered.  
+
+id: 120124n
+score: 0.8
+premise: of the road.
+hyp: Materials of the road 
+
+id: 77931n
+score: 0.714285714286
+premise: Recognizing that these other justifications overlap and may not all qualify as basic starting points, it is worthwhile to list them.
+hyp: These justifications are not starting points, because they are too indepth.
+
+id: 67431n
+score: 0.717948717949
+premise: but he's the star of that uh team their pitching staff and when he sits out they fizzle
+hyp: They have never once succeeded when he has sat out. 
+
+id: 109171n
+score: 0.738461538462
+premise: Deputy Attorney General Eric Holder, who suggested that the Justice Department, rather than a biased independent counsel, should investigate Baitgate.
+hyp: Eric Holder predictably suggested that the Justice Department should investigate rather than any other agency. 
+
+id: 45332n
+score: 0.829268292683
+premise: 13 Such problems might well arise if the Service were to negotiate discounted rates-unaccompanied by a change in service conditions that provided cost or revenue justification.
+hyp: There might be problems if the service can negotiate rates without a change in the service conditions.
+
+id: 127970n
+score: 0.655172413793
+premise: yeah but don't you think in a way that's kind of a cop out i mean it still is your responsibility and and and and nowadays they do have more information that you can become aware of and there are things like the League of Women Voters or some of the other groups
+hyp: That is avoiding the responsibility you have to your constiutents.
+
+id: 96276n
+score: 0.766666666667
+premise: This is a club for Russian golf.
+hyp: The club is popular among Russians. 
+
+id: 18395n
+score: 0.783783783784
+premise: The collections, regularly rotated from the 45,000 works in reserve, range from the Fauves and Cubism to Abstract Expressionism, Dadaism, Surrealism, and all the breakaway factions and reactions which followed them.
+hyp: The collections are rotated from 45,000 works, but the disciplines are limited.
+
+id: 128408n
+score: 0.655172413793
+premise: In 1994, GAO projected the cost at $2.
+hyp: GAO projects the cost for each year.
+
+id: 143938n
+score: 0.642857142857
+premise: He says this will make our system the best.
+hyp: He says the system will be the best because the program is flawless.
+
+id: 83218n
+score: 0.653846153846
+premise: In California, the client's rights to representation would be lost in certain administrative proceedings.
+hyp: There are a lot of people in California who have lost access to their rights to representation. 
+
+id: 119273n
+score: 0.864864864865
+premise: I still had to pay the ticket . . . I just figure if you are rich you can afford a lawyer, if you are poor you take what you get, said Grant, a resident of the Mayetta section of Stafford Township.
+hyp: I still had to pay the ticket, which was a whopping $500.
+
+id: 117245n
+score: 0.681818181818
+premise: there are a lot of people that aren't guilty that's in jail
+hyp: A lot of people in jail have been set up for crimes they did not commit. 
+
+id: 11561n
+score: 0.647058823529
+premise: Agencies can use IT to inform the public about participation opportunities either through passive systems that require users to take the initiative to discover rules available for comment or proactive systems that alert interested individuals or organizations about impending regulatory actions.
+hyp: Alerting individuals by using IT strategies is the future of agency relations.
+
+id: 60066n
+score: 0.631578947368
+premise: Respond in kind and you'll soon feel at home.
+hyp: You won't find a friendlier group of people.
+
+id: 5105n
+score: 0.9
+premise: From global gold standard to GONE in less than two years!
+hyp: The gold standard was dismantled because it prevented rapid growth of the money supply.
+
+id: 68906n
+score: 0.897959183673
+premise: In Palermo, churches and mosques stood side-by-side, feudal castles next to Oriental palaces and their exotic gardens.
+hyp: In Palemo, Feudal castles were in the vicinity of mosques and churches, as were oriental palaces.
+
+id: 131465n
+score: 0.75
+premise: The majestic double staircase inside inspired Charles Garnier for his design of the Paris Opera House.
+hyp: There are 50 steps on each staircase.
+
+id: 9461n
+score: 0.716666666667
+premise: At some point, however, it is possible that private industry would rise to the occasion and collect virtually all of the mail, process it, and give it to the postal service for delivery.
+hyp: The private industry could improve the performance of the postal service.
+
+id: 8063n
+score: 0.947368421053
+premise: you know it's i mean i it it should probably be a big issue you know because it's it's doing a lot of damage but i it's something you know i don't think many people really think about it because it's nothing they i don't think we really have too much control over it
+hyp: We don't think about the air pollution because we don't have control.
+
+id: 139993n
+score: 0.8
+premise: mail used by non-households to send and pay bills to other non-households).
+hyp: Mail used by non-households to pay bills to other non-households is a very effective method.
+
+id: 18967n
+score: 0.754385964912
+premise: There is a subtle sexism in  The female domestic tycoon is obliged to behave better than the guys.
+hyp: The Female Domestic Tycoon is sexist because it says that men are better than women
+
+id: 40499n
+score: 0.666666666667
+premise: Vast expanses of land are cultivated; orchards and lush cattle pastures produce the famous strong cider and pungent cheeses.
+hyp: In addition to cider and cheese, wine is also produced here.
+
+id: 48040n
+score: 0.673913043478
+premise: exactly so they got rid of that tax in a hurry
+hyp: They got rid of the soda tax the next day.
+
+id: 128052n
+score: 1.0
+premise: The picture reportedly ended with a shot of black smoke coming out of the stack--but we'll never know because The Day the Clown Cried was judged too obscene to be released, and Lewis went back to parading doomed kids across the TV screen in telethons, while Americans goggled at his stamina, and senators nominated him for the Nobel Peace Prize.
+hyp: The picture ended with a shot of black smoke coming out of the stack.
+
+id: 139958n
+score: 0.666666666667
+premise: well it was up there actually that she got her fear of spiders because we sat and watched a tarantula for a long time we we you know we'd never seen one
+hyp: There was a huge tarantula in the campground and we watched it for a long time.
+
+id: 37126n
+score: 0.923076923077
+premise: My guess is they ain't sure.
+hyp: My guess is they ain't sure who there dad is.
+
+id: 389n
+score: 0.641509433962
+premise: Similarly, he said, LSNY will exercise control over the local corporations by being designated as the sole member in each corporation, empowered to choose or discharge board members.
+hyp: LSNY will start exercising control as soon as the summer starts. 
+
+id: 52022n
+score: 0.935483870968
+premise: In another situation, we noted that a program lacked an effective method to monitor the professional growth of new and inexperienced staff.
+hyp: There have been 9 situations that we have noted.
+
+id: 59589n
+score: 0.717391304348
+premise: In addition, there are a number of issues that Congress should consider that S. 556 does not address.
+hyp: S 556 did not address all issues for poor people.
+
+id: 39450n
+score: 0.604166666667
+premise: To spear-fish you need a license, and must be 200 m (650 ft) or more from the beach.
+hyp: You need a license to spear-fish, which costs $200 per day.
+
+id: 141720n
+score: 0.628571428571
+premise: so what's your favorite team or do you have a favorite team or
+hyp: Your favorite team is in the National Football League.
+
+id: 114697n
+score: 0.678571428571
+premise: If I fill in my name and cash it, I pay tax.
+hyp: I'll have to pay taxes when I cash the check. 
+
+id: 48975n
+score: 0.645833333333
+premise: Throughout, he displays a deft and lively grasp of Southern history and letters, popular culture and cuisine.
+hyp: He had done a lot of research into Southern history and culture.
+
+id: 11351n
+score: 0.888888888889
+premise: yeah mostly i think in a place where it's really cold they do it in the fall let them winter
+hyp: They do it in the cold due to guidelines.
+
+id: 41305n
+score: 0.631578947368
+premise: oh yeah put them in salad yeah you're you're making me hungry here
+hyp: I enjoy eating salad.
+
+id: 128971n
+score: 0.820512820513
+premise: When the government in 1989 started asking parents to provide the Social Security number of their putative day-care provider, claims for credits dropped markedly.)
+hyp: Not all of the parents were able to provide Social Security numbers to the government.
+
+id: 14129n
+score: 0.608695652174
+premise: Recently, the CIO took over 400 employees and guests to a five-star hotel for an evening out to celebrate the groupas accomplishments.
+hyp: The employees were very excited for the evening out.
+
+id: 54031n
+score: 1.0
+premise: Prudie would suggest, however, since you are on your way up the corporate ladder in a buttoned-up industry that your ladyfriend not dress them up so that undue attention is directed their way.
+hyp: Don't dress oddly in a corporate setting. 
+
+id: 57526n
+score: 0.727272727273
+premise: Characteristics related to the useful life are that it
+hyp: There are many characteristics associated with the useful life.
+
+id: 61498n
+score: 0.615384615385
+premise: maybe hotter but
+hyp: Maybe it is hotter but it doesn't feel like it,
+
+id: 110747n
+score: 0.736842105263
+premise: well how bad were the side effects
+hyp: There were only negative side effects.
+
+id: 63523n
+score: 0.633333333333
+premise: We have divided the country into five regions north, west, center, east, and south.
+hyp: We could have divided the country further with regions such as North West.
+
+id: 84839n
+score: 0.913793103448
+premise: 9 In another sixteen states, LSC funding represents over 50% of the total investment in the civil legal services system.
+hyp: In some states, LSC funding is at least 52% of the total investment in the civil legal services system.
+
+id: 21654n
+score: 0.612903225806
+premise: i you know some of the places now um like IBM don't allow even smoking you know in the in the plant we we have designated smoking areas
+hyp: There is no smoking allow at IBM since it is unsafe.
+
+id: 73543n
+score: 0.85
+premise: APHIS rejected the second alternative because it believed that less stringent mitigating measures than the ones proposed would increase the risk of the introduction of hog cholera into the United States and that more stringent mitigating conditions would be unnecessarily restrictive.
+hyp: The risk would increase.
+
+id: 84260n
+score: 0.666666666667
+premise: Reilly also said he thought mortgage brokers commonly exaggerate business proceeds in stated-income loans - I would say 90 percent of the time they are padded - adding that he was 25 and inexperienced at the time and has not repeated the mistake since.
+hyp: Reilly thought mortgage brokers exaggerated proceeds in stated-income loans in the inner city.
+
+id: 129432n
+score: 0.634615384615
+premise: In the case of carbon, the bank would last another two years at the rate of drawdown in 2015, or longer if the drawdown declined.
+hyp: The drawdown declined and the bank sustained itself for an additional 10 years.
+
+id: 23893n
+score: 0.636363636364
+premise: During a signing ceremony for a bill, he dove headfirst fully clothed into the Charles River.
+hyp: He had been planning to dive into the river since the start of the ceremony.
+
+id: 29728n
+score: 0.630136986301
+premise: The amount and kinds of evidence required to support auditors' conclusions should be based on auditors' professional judgment.
+hyp: The kinds of evidence that support auditors conclusions should be based on their professional judgment, never their personal feelings.
+
+id: 45641n
+score: 0.615384615385
+premise: Both the news and calendar pages allow all users to submit their own articles and events.
+hyp: Users are excited about being able to share their own events on the calendar page.
+
+id: 80627n
+score: 0.777777777778
+premise:  If the island's second largest town has any centre at all, it's the sleepy square in front of the sagging old police barracks.
+hyp: There are five towns on the island.
+
+id: 131633n
+score: 0.621621621622
+premise: A few days later, the Times printed an op-ed criticizing the liberal media for ignoring the Davidson news conference.
+hyp: The Times printed an editorial that said the liberal media ignored a news conference that was very important.
+
+id: 42070n
+score: 0.774193548387
+premise: Have you the key of the door?
+hyp: Do you have keys to any one of these doors?
+
+id: 77226n
+score: 0.657894736842
+premise: Parcells' teams commit fewer penalties than almost any team in the league.
+hyp: Parcell's team is extremely cautious not to commit penalties, unlike every other team in the league. 
+
+id: 122906n
+score: 0.636363636364
+premise: This is where the cruise boats dock.
+hyp: The cruise boats have always docked here.
+
+id: 131770n
+score: 0.645161290323
+premise: Current law addresses each of These pollutants independently, on different timetables, through several different programs.
+hyp: There will be new laws to reduce the effects of these pollutants.
+
+id: 38855n
+score: 0.6875
+premise: I say Helms started it, an' th' jumpin' went th' other way 'round, Sergeant.
+hyp: The Sergeant wanted to know if Helms was involved.
+
+id: 130213n
+score: 0.611111111111
+premise: Managers generally welcomed their new authority to make spending, personnel, and operational decisions that had formerly been made by central authorities.
+hyp: It is more affordable if new authority is used over the central authorities. 
+
+id: 134579n
+score: 0.655172413793
+premise: no that's okay i didn't give away the whole thing i just gave away just enough to get you interested
+hyp: Are you interested in seeing it now?
+
+id: 85635n
+score: 0.7
+premise: Two, the Patient on the Specialized Life Support System answered.
+hyp: The patient is very unwell
+
+id: 54112n
+score: 0.777777777778
+premise: Federal non-Social Security surpluses are eliminated through 2010, and unified deficits emerge in 2019.
+hyp: Federal non-Social Security deficits may occur in 2020.
+
+id: 139109n
+score: 0.870967741935
+premise: European Tour, takes place at Santo da Serra Golf Club.
+hyp: The European tour can be found at the Santo da Serra Golf Club.
+
+id: 132687n
+score: 0.666666666667
+premise: Subia was nominated by President Bush to the board of directors of the Legal Services Corp. -- a nonprofit organization dedicated to providing legal services to low-income people.
+hyp: Subia was Bush's first nominee to the Board of Directors.
+
+id: 120410n
+score: 0.706666666667
+premise: anyway maybe you know maybe it'll it'll help in some way but i don't know there there there definitely even with the few disadvantages like that are far better than the alternative
+hyp: Maybe it will help a great deal more than the alternatives.  
+
+id: 38964n
+score: 0.809523809524
+premise: some places do some don't right just depends you know how long how long it takes them to figure it out if they can just tell right away
+hyp: Most places can figure it out right then and there.
+
+id: 61624n
+score: 0.869565217391
+premise: Britain's political and economic connections to Madeira can be traced to the 17th century.
+hyp: Britain has political and economic connections to Madeira because of the wine trade.
+
+id: 112284n
+score: 0.758620689655
+premise: and uh and i'm i'm i'm especially sorry for the people that are you know have spent all these years trying to deal with it emotionally because you know until the last past four or five years nobody ever really worried about that for them
+hyp: People had emotional problems.
+
+id: 60806n
+score: 0.84
+premise: The analysis concludes that the final rule will not impose any additional burdens on small entities because most of the changes in the rule do not require the development of new information.
+hyp: Most rule changes to not require new information.
+
+id: 21102n
+score: 0.875
+premise: In sensitive areas such as the Adirondacks, for example, the majority of lakes have remained fairly constant in terms of acidification levels, while the most sensitive lakes continue to acidify.
+hyp: The least sensitive lakes remain fairly constant in terms of acidification levels.
+
+id: 23778n
+score: 0.666666666667
+premise: John Nolan and I were talking about some of his responsibilities.
+hyp: John Nolan doesn't have enough responsibilities 
+
+id: 107561n
+score: 0.875
+premise: and you want to make sure that it's done right and put back together right and you know i've i've in the past i've had brake jobs done by someone that when i went back and and looked at it some months later i'd find something drastically wrong with it
+hyp: Failing to repair something properly will always lead to even bigger problems later.
+
+id: 96658n
+score: 0.785714285714
+premise: yeah i'm not very familiar with with the the state of their agriculture agriculture
+hyp: I'm not very familiar with the state of the agriculture in Poland
+
+id: 46112n
+score: 0.755102040816
+premise: yep oh yeah they do they get real emotional about it all the i've worked with a lot of people that hunt and they just they they don't see any sense in it at all they think it's ridiculous to have any kind of gun control but then of course they're hunters they know what they're doing they don't realize there're a bunch of crazy people out there that
+hyp: Most hunters are against gun control because they know what they're doing and according to statistics, most hunters wouldn't kill a human being.
+
+id: 27108n
+score: 0.666666666667
+premise: 'I'm warning you, because despite myself, Mr. Franklin, I find myself beginning to like you.
+hyp: Mr Franklin is being liked by the woman. 
+
+id: 32522n
+score: 0.666666666667
+premise: The change would increase the cost of filing a lawsuit in Superior Court to $200.
+hyp: The current cost to file a lawsuit is $150.
+
+id: 111377n
+score: 0.7
+premise: oh definitely hum-um hum-um no but they think and probably the right people buy it
+hyp: They think this.
+
+id: 120247n
+score: 0.8125
+premise: There are many different establishments to choose from, each with its own clientele and style.
+hyp: There are more than 20 different establishments to choose from.
+
+id: 50740n
+score: 0.826086956522
+premise: The company has forged alliances with several cable companies such as Comcast (full  Microsoft recently invested $1 billion in Comcast) and Cox to provide service.
+hyp: They will be able to provide services.
+
+id: 146140n
+score: 0.772727272727
+premise: uh for months and months and months and it was a a genre that i wasn't in the least bit interested in and i usually when i hear about a movie that's supposed to be very good
+hyp: I was not interested in the movie.
+
+id: 83449n
+score: 0.72
+premise: Harrison D. McIver III, MALS executive director, said the agency was very gratified by the Community Foundation's grant. 
+hyp: MALS got a $50,000 grant from the Community Foundation.
+
+id: 59374n
+score: 0.666666666667
+premise: and like i said  i don't really watch TV too much any more uh
+hyp: I watch TV everyday.
+
+id: 112913n
+score: 0.769230769231
+premise: ever since Akeem changed his uh first name to Hakeem  he added the H to the front
+hyp: Akeem changed his name to Hakeem due to religious reason
+
+id: 44088n
+score: 0.681818181818
+premise: They don't leave no more trail than an ant steppin' high, 'less they want you should foller them into a nice ambush as they has all figgered out.
+hyp: They don't leave much trail because they are being careful.
+
+id: 145415n
+score: 0.885245901639
+premise: Entitlements are not the only thing that matters.
+hyp: Entitlements do matter, but not as much as the other things. 
+
+id: 89942n
+score: 0.625
+premise: My friends here,' I gestured vaguely at Natalia, 'my friends from the Salmon Corp will no doubt have some scientific evidence for those of you with inquiring minds.
+hyp: I was bluffing when I said my friends had evidence.
+
+id: 61336n
+score: 0.641025641026
+premise: Because we need it badly.
+hyp: We need the goal to win very badly.
+
+id: 14576n
+score: 0.714285714286
+premise: They do not, they say, value a stock by looking at future earnings.
+hyp: Stocks are not valued from future earnings, but from how much money they make you.
+
+id: 93760n
+score: 0.634920634921
+premise: UT law students will staff the center and conduct the initial interviews with clients to find out what their legal problems are and how they can be helped.
+hyp: To find out what clients' legal problems are and how they can be solved, UT law students are going to interview them, said the news.
+
+id: 56955n
+score: 0.869565217391
+premise: We provided drafts of our human capital model to OPM and OMB for their review prior to publication to help ensure that the three efforts are conceptually consistent.
+hyp: Drafts of human capital model to OPM and OMB were expensive
+
+id: 131720n
+score: 0.8125
+premise: But the Army shows the process can work, and can help.
+hyp: The army promises that it can help if the process is used.
+
+id: 105004n
+score: 0.795454545455
+premise: And the editor heard Jacob's plea.
+hyp: Jacob's second plea was heard by the editor.
+
+id: 70083n
+score: 0.790697674419
+premise: It's not the same as adding real value to the economy.
+hyp: Adding real value to the economy should be our top priority.
+
+id: 37444n
+score: 0.602941176471
+premise: Nowadays banks are by no means guaranteed to make  To turn a profit they must work hard, innovate--and take big risks.
+hyp: I think honesty helps banks turn a profit.
+
+id: 128226n
+score: 0.720930232558
+premise: Also, much of the information maintained by federal agencies, although unclassified, is extremely sensitive, and many automated operations are attractive targets for individuals or organizations with malicious intentions, such as committing fraud for personal gain or sabotaging federal operations.
+hyp: A lot of information is maintained by federal agencies and is sensitive so it should be protected properly.
+
+id: 22570n
+score: 0.86170212766
+premise: (This small difference would be further reduced if retail activities of rural carriers were not counted.)
+hyp: If retail activities of rural carriers in both countries were not counted, then the difference would be reduced.
+
+id: 43507n
+score: 0.654545454545
+premise: Less than one kilometer (half a mile) from the western end of Princes Street is Dean Village.
+hyp: Dean Village is 0.4 miles away from Princes Street.
+
+id: 126476n
+score: 0.756756756757
+premise: They actually seem to play because they love their game.
+hyp: They seem to play because of their love of the game and of each other.
+
+id: 133621n
+score: 0.875
+premise: for me any time i needed extra help any time of the day
+hyp: I could get help any time I needed it and it really helped.
+
+id: 86908n
+score: 0.692307692308
+premise: EPA has prepared both a qualitative and quantitative assessment of the benefits and costs of the rule in the Regulatory Impact Analysis.
+hyp: The EPA is really good at preparing assessments of Regulatory Impact Analyses.  
+
+id: 78934n
+score: 0.666666666667
+premise: um-hum well you know what else really surprised me now i'm married to a native Texan and i'm not
+hyp: I'm married to a native Texan and I'm not very fond of them.
+
+id: 89110n
+score: 0.75
+premise: Lincoln actually counted then down.
+hyp: Lincoln counted down from twenty. 
+
+id: 36285n
+score: 0.647058823529
+premise: We had a late luncheon and spent the afternoon resting in the garden. 
+hyp: We enjoyed the late luncheon 
+
+id: 21171n
+score: 0.625
+premise: Sales of Bruno Magli shoes are up 30 percent this year.
+hyp: Bruno Magli shoes are popular with teen-agers this year.
+
+id: 11721n
+score: 0.852459016393
+premise: Chatterbox learned that the science of studying facial expressions is relatively  Before the 1960s, apparently, it was deemed a useless enterprise.
+hyp: The study of facial expressions by Harvard was deemed useless in the 1960's.
+
+id: 94908n
+score: 1.0
+premise: Take no unnecessary risks once the papers are in your hands.
+hyp: If the papers are in your hands, risks might come.
+
+id: 34664n
+score: 0.728971962617
+premise: Similarly, one organization's central group was instrumental in acquiring a strong user authentication system to help ensure that network use could be reliably traced to the individual users.
+hyp: One organization's central group was important in acquiring a strong user authentication system that helped the organization fin users that were accessing the site from abroad.
+
+id: 16126n
+score: 0.928571428571
+premise: no it uh it started leaking through the you know out through the pan and out onto the floor and it's soaking up in the Sheetrock or in things right
+hyp: It started to leak a lot.
+
+id: 118563n
+score: 0.785714285714
+premise: 'Well, I can get it working like a person.'
+hyp: I can get the machine to work like a person.
+
+id: 55021n
+score: 0.64
+premise: They can't talk our language.
+hyp: They don't have the means to speak our language.
+
+id: 38697n
+score: 0.941176470588
+premise: Have you checked the interest rate your bank pays on your IOLTA account?
+hyp: Banks pay 2%  interest on IOLTA accounts.
+
+id: 78834n
+score: 0.666666666667
+premise: Having in his turn failed to persuade Tuppence to go to bed, he said decisively: "At any rate, you've got to have something to eat right away.
+hyp: He had something to eat right away.
+
+id: 70544n
+score: 0.776785714286
+premise: But even for a couple of thousand words that could have come from a brochure, the airfare still gets picked up by somebody else.
+hyp: Nobody checks the work so even if those two thousand words came from a brochure, the airfare still gets picked up by someone else.
+
+id: 30451n
+score: 1.0
+premise: You have? 
+hyp: He has.
+
+id: 58249n
+score: 0.625
+premise: um how weird i don't know and they they do have a variety of topics my first one was the toughest it was something like discuss pollution
+hyp: I do not know much about the topic of pollution.  
+
+id: 145785n
+score: 0.666666666667
+premise: In Roman times, some 7,000 spectators would gather here to watch a circus, Greek tragedy, Latin comedy, or lottery draw.
+hyp: Thousands of people would watch the live events, but even more than that if it was a fight.
+
+id: 87711n
+score: 0.66
+premise: Distribution of Rural Routes by Density (Boxes per Mile) Selective Averagesa (1989)
+hyp: Rural routes all have densities below 100 people per mile.
+
+id: 84489n
+score: 0.674418604651
+premise: At IRS we identified the challenges the organization faces in revamping its human capital policies to help achieve its congressionally mandated transformation to an agency that better balances service to the taxpayers with enforcement of the tax laws.
+hyp: The IRS will enlist the assistance of local police forces to help them enforce tax law.
+
+id: 92704n
+score: 0.707865168539
+premise: Some of the agencies' electronic rulemaking systems contained several of the innovative dimensions previously discussed.
+hyp: The agencies' electronic rulemaking systems only contained two innovative dimensions that were not discussed before.
+
+id: 125047n
+score: 0.666666666667
+premise: He'd probably pick it up in his fillings.
+hyp: He had fillings in his teeth.
+
+id: 134857n
+score: 0.857142857143
+premise: yeah that's right it's kind of nice too to have that fall
+hyp: It's kind of nice in your 20s to have that fall
+
+id: 55168n
+score: 0.65
+premise: because i'm always worrying it won't firm up because it when you take it out of the saucepan it's like boy i hope this thickens a little more because it's not like real package thick you know when you cook a package it's it's a little less
+hyp: I hope to thicken it as close to the package as possible.
+
+id: 99405n
+score: 0.893617021277
+premise: In the middle of the square is a pool fed by the sacred spring.
+hyp: The pool in the middle of the square is sacred.
+
+id: 144764n
+score: 0.636363636364
+premise: Anything, she concluded as long as I am not a Washington journalist in the era of Clinton and Gingrich and Starr, covering this horrible grudge match between the right and the left that has been building since Watergate.
+hyp: She thought anything would be better then having to cover the grudge match.
+
+id: 122460n
+score: 0.803921568627
+premise: Did you know he is boycotting Spin because he felt we weren't reverential enough to him?
+hyp: Did you know he's boycotting Spin only because it wasn't reverential enough in his opinion.
+
+id: 120818n
+score: 0.806451612903
+premise: Above this rises a tower of 13 diminishing golden disks symbolizing the 13 steps to enlightenment, then a golden royal parasol topped by a bell-shaped crown.
+hyp: The disks on the tower all diminish towards the top.
+
+id: 58918n
+score: 0.612903225806
+premise: She is an excellent specimen of well-balanced English beef and brawn. 
+hyp: She's an excellent specimen of English beef and brawn, well-balanced between the two from her past experience.
+
+id: 23781n
+score: 0.909090909091
+premise: To many Madeirans who believe the Lady of Monte has carried them through troubled times, the pilgrimage is an obligation.
+hyp: Because the Lady of Monte is believed to have carried them through troubled times, Madeirans believe the pilgrimage is an obligation.
+
+id: 26362n
+score: 0.7
+premise: and i think a lot of cases like a lot of our minority issues the we had the ten four one verses the fourteen one election here in Dallas a while back and it lost well that was decided by a very small margin um and there were a lot of of minorities that wanted it to go the way that it didn't go but they also had very low voter turnouts especially like in the Hispanic community and i think in that case they've just they developed a distrust of the system and so they've chosen not to participate in it
+hyp: Hispanics used to participate more during elections.
+
+id: 136465n
+score: 0.952380952381
+premise: Should we be boycotting multimedia sites that make even my fractional T3 connection choke?
+hyp: Boycotting multimedia sites that choke our T3 connections will benefit the community.
+
+id: 139891n
+score: 0.666666666667
+premise: because of the the i'm driving a Pontiac now and it's uh it's a sixty seven Pontiac it's got a hundred fifty eight thousand miles on it
+hyp: Pontiac I am driving can go up to two hundred thousand miles.
+
+id: 76363n
+score: 0.62962962963
+premise: Lines 5 through 8 show the effect of changing the method of payment for the exchange of LC/AO mail between the U.S. and all other FPAs.
+hyp: The method of payment for the exchange of LC/AO mail changed from local offices to online banking.
+
+id: 49775n
+score: 0.763157894737
+premise: For example, the organizations that had professional and administrative staffs said that it was difficult to find and retain employees with the level of skills and foresight that would contribute to the organization's mission.
+hyp: the organizations that had professional and administrative staffs said that it was difficult to find and retain employees who loved eating meat
+
+id: 92241n
+score: 0.611940298507
+premise: sometimes it seems like during the trial part the jury's not you know misses some of the best evidence because they make them leave and
+hyp: They make the jury leave because they want them to miss the important evidence.
+
+id: 122669n
+score: 0.71875
+premise: He cuts back on the hot air, descends and yells to a man he spots on the ground.
+hyp: He cuts back on the hot air because he is running low.
+
+id: 28747n
+score: 0.780821917808
+premise: Leading organizations recognize the role of IT in supporting mission accomplishment and seek to integrate it with business operations.
+hyp: The role of IT is recognized by leading organizations, and that is why it is growing more and more.
+
+id: 51230n
+score: 0.772727272727
+premise: It is found only on the peninsula.
+hyp: It used to be found outside the peninsula.
+
+id: 86881n
+score: 0.793103448276
+premise: He prowled aimlessly about his prison.
+hyp: He was alone in the prison, nobody else around.
+
+id: 26097n
+score: 0.864864864865
+premise: Thorn and the Kal will help prepare the spikes.
+hyp: Thor and the Kal will help the others prepare the spikes. 
+
+id: 72569n
+score: 0.714285714286
+premise: i think ten percent yes of your of your consumer credit
+hyp: I think it's 10% of your credit that should be used.
+
+id: 26367n
+score: 0.608695652174
+premise: It is worth making a detour on the pedestrianized areas of Henry Street and Moore Street, to see their famous markets and hear the cries of the stallholders .
+hyp: Henry and Moore street might be far but the travel is worth it just to see their markets.
+
+id: 36182n
+score: 0.811320754717
+premise: The nearby Osaka Municipal Art Museum, near Tennoji Station, is worth visiting for its celebrated Abe Collection of 200 Chinese paintings (ninth 13th centuries) and its Ming- and Ching-dynasty ceramics (14th 19th centuries).
+hyp: The Osaka Municipal Art Museum has the largest collection of Ching era ceramics in the world.
+
+id: 47449n
+score: 0.641025641026
+premise: okay and that's because they cater to their own people
+hyp: They cater to their own people because they're acting the same way I do.
+
+id: 84057n
+score: 0.648648648649
+premise: yeah  things like that are just kind of absurd or once in a while they'll they'll keep uh just hounding someone that they're interviewing
+hyp: If they hounded me I would walk out of the interview.
+
+id: 59464n
+score: 0.68
+premise: and to keep abreast of the knowledge out there we got to constantly read go to school uh TV watching has sure hasn't gone too much out the door because TV is still well the cable system and the satellite dishes has made it to where a lot of people can just leave regular TV programming and watch a lot of other a variety of programs out there as well as use of the VCR
+hyp: We read a lot and went to school, depending on what day it was.
+
+id: 15301n
+score: 0.851063829787
+premise:  "Heard tell as you boys don't think th' war's clear over yet,"Fenner observed.
+hyp: Fenner heard in the bar that these boys don't think the war is over.
+
+id: 33220n
+score: 0.826086956522
+premise: On occasion, the congressional client(s) who requested the work may ask to see the agency's comments before GAO's final report is issued.
+hyp: The client doesn't trust the agency 
+
+id: 61795n
+score: 0.63025210084
+premise: In 1793, when the leaders of the Revolution declared the palace a national museum, the Louvre held 630 works of art; a recent inventory listed 250,000.
+hyp: The leaders of the Revolution declared the palace a national museum and soon 1 million people were visiting each year.
