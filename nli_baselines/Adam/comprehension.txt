@@ -1,0 +1,86 @@
+1.
+text:
+'The weather was so nice today that I decided to have a barbecue. I called up some of my friends to invite them over. 
+I set up some chairs and tables outside for my friends to sit around. I then took out some hot dogs from my fridge and brought them over to my barbecue. 
+My barbecue is a gas barbecue, so all I had to do was press the knob and turn it to ignite it. 
+Once I got a little fire going I put my hot dogs on the grill over it to cook. I closed the lid and left my hot dogs to cook for about ten minutes. 
+After ten minutes I decided to check on them to see if they were done. They looked like they were cooked, so I put them all on a plate to serve to my friends. 
+I went to my kitchen and got hot dog buns, ketchup, mustard, and relish to serve on top of the hot dogs. 
+I laid out all of the food and condiments on the table so my friends could help themselves. We ate the hot dogs and relaxed around the table.'
+
+kérdés:
+Who is invited to the barbecue?
+
+válaszok:
+Co workers
+Their friends
+
+élek:
+ ('friend', 'enjoy', 0),
+ ('friend', 'he', 1),
+ ('friend', 'know', 0),
+ ('friend', 'like', 0),
+ ('friend', 'much', 2),
+ ('friend', 'time', 2),
+
+2.
+Today we decided to paint the extra room in our house. Were going to have visitor coming next month so hopefully the painting ain't that smelly anymore. 
+I made sure that the wall is clean and clear of all the nuisance. We already bought the pain and we decided the new wall pain is sky blue. 
+My husband is putting newspaper on the floor to avoid any spill on our floor/carpet. We put tarp on the floor too before we put the newspaper. 
+I finally start painting and it was so easy because we made sure that everything was ready before we started. It didn't take us 30 minutes to finish the whole job. 
+We leave everything in the room except the paints, brush and other stuff that we used. 
+We will be cleaning and removing the newspapers and tarp once the wall paint is dry. It was fun afternoon working together and we both love the result."
+
+kérdés:
+When did they start painting?
+
+válaszok:
+ ['the week before', 'Today']]
+
+élek:
+('that', 'today', 0),
+ ('today', 'happening', 0),
+ ('today', 'that', 1)
+
+3.
+szöveg:
+Tom's dad ordered pizza yesterday for the family. He picked the phone up, and called Dominoes Pizza.  
+When he spoke , he told the man he wanted a large pepperoni pizza with thin crust and extra cheese.  
+He also said to bring a coke.  His dad paid for the pizza by giving the man on the phone his card numbers for his debit card.  
+Then the man gave Tom's dad a time that they would deliver the pizza.  
+Thirty-five minutes later, a pizza delivery guy knocked on the front door, and gave his dad  the pizza.  
+He signed the receipt, and gave the guy a tip, $2, for bringing it to them fast.  The boy thanked him and left.  
+Tom's dad called to the family to come eat dinner, and set the pizza on the table to eat.  
+He put plates on the table, and poured the coke for everyone to drink, and they ate every single slice of pizza!"
+
+kérdés:
+What did they order?
+
+válaszok:
+['Large pepperoni pizza with extra cheese and thin crust.', 'Cheese pizza']
+
+élek:
+ ('INSTRUMENT', 'pepperoni', 1),
+ ('INSTRUMENT', 'taste', 2),
+('pepperoni', 'italian', 1),
+
+4.
+szöveg:
+'This morning I decided to make an omelette.  I took the eggs out of the fridge and cracked three of them into a large mixing bowl. 
+I added a small amount of milk to make the eggs fluffy.  After the pan warmed up, I dumped the eggs into a greased pan.  
+I cooked it on low so the eggs would not stick. I then started cutting some cheese into small pieces. Once they were halfway done, I flipped the eggs.  
+I sprinkled my freshly cut cheese on top of the eggs, and then folded the entire thing in half using a spatula.  Once one side of the omelette was done, 
+I flipped it to the other side with the spatula again.  I repeated flipping the eggs until I could see that the cheese was melted.  
+I put the eggs on a plate and poured a glass of milk to go with it.  I sat down and enjoyed my breakfast.
+
+kérdés:
+When were the eggs add to the pan to make the omelette?
+
+válasz:
+['after the cheese was added', 'after the pan is warmed up'],
+
+élek:
+('use', 'he', 1),
+ ('use', 'pan', 2),
+ ('use', 'usual', 0),
+ ('warm', 'UP', 0),
